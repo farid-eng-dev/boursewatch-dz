@@ -1,0 +1,40 @@
+name: Actualisation Quotidienne de la Bourse d'Alger
+
+on:
+  schedule:
+    # S'exécute du dimanche au jeudi à 12:00 UTC (soit 13:00 heure d'Alger, après la clôture de la séance de 12h30)
+    - cron: '0 12 * * 0-4'
+  workflow_dispatch: # Permet de lancer le scraper manuellement depuis l'interface GitHub
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Requis pour pousser la mise à jour sur le dépôt privé
+
+    steps:
+    - name: Récupérer le code du dépôt
+      uses: actions/checkout@v3
+
+    - name: Configurer Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Lancer le Scraper
+      run: |
+        python scraper.py
+
+    - name: Valider le fichier JSON généré
+      run: |
+        python -m json.tool market_data.json > /dev/null
+        echo "JSON validé avec succès."
+
+    - name: Pousser les modifications sur le dépôt
+      run: |
+        git config --global user.name "SGBV Scraper Automator"
+        git config --global user.email "actions@github.com"
+        git add market_data.json
+        # Commit seulement s'il y a des modifications de cours
+        git diff-index --quiet HEAD || git commit -m "séance: actualisation automatique de la cote officielle [skip ci]"
+        git push

@@ -1,0 +1,4261 @@
+{
+    "session": {
+        "date": "Mercredi 15  Juillet 2026",
+        "index_name": "Dzair Index",
+        "index_value": 3843.95,
+        "index_change": "0,00%",
+        "total_volume_equities": 0,
+        "total_value_equities": 0.0,
+        "total_volume_bonds": 0,
+        "total_value_bonds": 0.0,
+        "market_cap": 0.0
+    },
+    "companies": {
+        "CPA": {
+            "ticker": "CPA",
+            "name": "Crédit Populaire d'Algérie",
+            "sector": "Bancaire",
+            "sectorKey": "Bancaire",
+            "ipoYear": 2024,
+            "ipoPrice": 2300,
+            "currentPrice": 2300,
+            "change": "0,00 %",
+            "open": 2300.0,
+            "close": null,
+            "volume": 120,
+            "value": 276000,
+            "description": "Le Crédit Populaire d'Algérie (CPA) est l'une des plus importantes institutions bancaires publiques en Algérie. Son introduction en bourse en 2024 a constitué la plus grande opération historique de la place d'Alger, ouvrant avec succès 30% de son capital au public.",
+            "div2023": 125,
+            "div2024": 125,
+            "div2025": 175,
+            "yield": 7.61,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": null,
+                    "div": 125
+                },
+                "2024": {
+                    "price": 2300,
+                    "div": 125
+                },
+                "2025": {
+                    "price": 2300,
+                    "div": 175
+                },
+                "2026": {
+                    "price": 2300,
+                    "div": null
+                }
+            }
+        },
+        "BIO": {
+            "ticker": "BIO",
+            "name": "Biopharm",
+            "sector": "Pharmaceutique",
+            "sectorKey": "Pharmaceutique",
+            "ipoYear": 2016,
+            "ipoPrice": 1225,
+            "currentPrice": 2510,
+            "change": "0,00 %",
+            "open": 2510.0,
+            "close": null,
+            "volume": 450,
+            "value": 1129500,
+            "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
+            "div2023": 180,
+            "div2024": 160,
+            "div2025": 170,
+            "yield": 6.77,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": 2400,
+                    "div": 180
+                },
+                "2024": {
+                    "price": 2450,
+                    "div": 160
+                },
+                "2025": {
+                    "price": 2500,
+                    "div": 170
+                },
+                "2026": {
+                    "price": 2510,
+                    "div": null
+                }
+            }
+        },
+        "BDL": {
+            "ticker": "BDL",
+            "name": "Banque du Développement Local",
+            "sector": "Bancaire",
+            "sectorKey": "Bancaire",
+            "ipoYear": 2024,
+            "ipoPrice": 1400,
+            "currentPrice": 1405.0,
+            "change": "0,00 %",
+            "open": 1405.0,
+            "close": 1405.0,
+            "volume": 12000,
+            "value": 16860000,
+            "description": "La Banque du Développement Local (BDL) est une banque publique majeure introduite à la bourse d'Alger en 2024. Elle se concentre sur le financement du tissu industriel local, de l'artisanat, des PME ainsi que des services bancaires de proximité.",
+            "div2023": null,
+            "div2024": 77,
+            "div2025": 107,
+            "yield": 7.64,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": null,
+                    "div": null
+                },
+                "2024": {
+                    "price": 1400,
+                    "div": 77
+                },
+                "2025": {
+                    "price": 1402,
+                    "div": 107
+                },
+                "2026": {
+                    "price": 1405,
+                    "div": null
+                }
+            }
+        },
+        "ALL": {
+            "ticker": "ALL",
+            "name": "Alliance Assurances",
+            "sector": "Assurances",
+            "sectorKey": "Assurances",
+            "ipoYear": 2010,
+            "ipoPrice": 830,
+            "currentPrice": 345,
+            "change": "0,00 %",
+            "open": 345.0,
+            "close": null,
+            "volume": 80,
+            "value": 27600,
+            "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
+            "div2023": 32,
+            "div2024": 28,
+            "div2025": 35,
+            "yield": 10.14,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": 330,
+                    "div": 32
+                },
+                "2024": {
+                    "price": 340,
+                    "div": 28
+                },
+                "2025": {
+                    "price": 342,
+                    "div": 35
+                },
+                "2026": {
+                    "price": 345,
+                    "div": null
+                }
+            }
+        },
+        "SAI": {
+            "ticker": "SAI",
+            "name": "Saidal",
+            "sector": "Pharmaceutique",
+            "sectorKey": "Pharmaceutique",
+            "ipoYear": 1999,
+            "ipoPrice": 800,
+            "currentPrice": 446,
+            "change": "0,00 %",
+            "open": 446.0,
+            "close": null,
+            "volume": 500,
+            "value": 223000,
+            "description": "Saidal est le groupe pharmaceutique étatique historique et pionnier de la bourse depuis 1999. Saidal joue un rôle stratégique national dans la production de médicaments génériques et le développement de la souveraineté sanitaire algérienne.",
+            "div2023": 15,
+            "div2024": 21,
+            "div2025": 24,
+            "yield": 5.38,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": 420,
+                    "div": 15
+                },
+                "2024": {
+                    "price": 435,
+                    "div": 21
+                },
+                "2025": {
+                    "price": 440,
+                    "div": 24
+                },
+                "2026": {
+                    "price": 446,
+                    "div": null
+                }
+            }
+        },
+        "AUR": {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "sector": "Hôtellerie",
+            "sectorKey": "Immo/Hôtellerie",
+            "ipoYear": 1999,
+            "ipoPrice": 400,
+            "currentPrice": 360,
+            "change": "0,00 %",
+            "open": 360.0,
+            "close": null,
+            "volume": 0,
+            "value": 0,
+            "description": "L'Entreprise de Gestion Hôtelière (EGH) El Aurassi gère le prestigieux Hôtel Aurassi à Alger. Introduite en 1999, la société tire ses revenus de l'hôtellerie d'affaires, des congrès officiels et des services haut de gamme de restauration.",
+            "div2023": 0,
+            "div2024": 0,
+            "div2025": 0,
+            "yield": 0,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": 520,
+                    "div": 0
+                },
+                "2024": {
+                    "price": 535,
+                    "div": 0
+                },
+                "2025": {
+                    "price": 545,
+                    "div": 0
+                },
+                "2026": {
+                    "price": 360,
+                    "div": null
+                }
+            }
+        },
+        "AYRD": {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "sector": "Technologie",
+            "sectorKey": "Technologie",
+            "ipoYear": 2026,
+            "ipoPrice": 800,
+            "currentPrice": 810.0,
+            "change": "+1,25 %",
+            "open": 800.0,
+            "close": 810.0,
+            "volume": 20,
+            "value": 16200,
+            "description": "Ayrade est une société technologique dynamique introduite en 2026. Actrice majeure dans les solutions logicielles, d'hébergement web cloud et de transformation digitale en Algérie, elle vise à dynamiser le compartiment technologique de la bourse.",
+            "div2023": null,
+            "div2024": null,
+            "div2025": 0,
+            "yield": 9.45,
+            "yieldTarget": true,
+            "history": {
+                "2023": {
+                    "price": null,
+                    "div": null
+                },
+                "2024": {
+                    "price": null,
+                    "div": null
+                },
+                "2025": {
+                    "price": null,
+                    "div": 0
+                },
+                "2026": {
+                    "price": 810,
+                    "div": null
+                }
+            }
+        },
+        "CREX": {
+            "ticker": "CREX",
+            "name": "CRAPC EXPERTISE",
+            "sector": "Conseil / Audit",
+            "sectorKey": "Services",
+            "ipoYear": 2026,
+            "ipoPrice": 1600,
+            "currentPrice": 1600,
+            "change": "0,00 %",
+            "open": 1600.0,
+            "close": null,
+            "volume": 0,
+            "value": 0,
+            "description": "Le CRAPC (Expertise) est un cabinet de premier plan spécialisé dans les conseils stratégiques, d'audit comptable et financier et de gouvernance d'entreprise. Il s'agit d'une des récentes introductions boursières de 2026.",
+            "div2023": null,
+            "div2024": null,
+            "div2025": 0,
+            "yield": 0,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": null,
+                    "div": null
+                },
+                "2024": {
+                    "price": null,
+                    "div": null
+                },
+                "2025": {
+                    "price": null,
+                    "div": 0
+                },
+                "2026": {
+                    "price": 1600,
+                    "div": null
+                }
+            }
+        },
+        "MST": {
+            "ticker": "MST",
+            "name": "Moustachir",
+            "sector": "Conseil PME",
+            "sectorKey": "Services",
+            "ipoYear": 2024,
+            "ipoPrice": 750,
+            "currentPrice": 780,
+            "change": "0,00 %",
+            "open": 780.0,
+            "close": null,
+            "volume": 0,
+            "value": 0,
+            "description": "Moustachir est un intermédiaire et cabinet conseil dédié aux projets de restructuration, d'ingénierie financière et d'accompagnement des petites et moyennes entreprises pour l'accès aux financements et marchés de capitaux.",
+            "div2023": null,
+            "div2024": 0,
+            "div2025": 0,
+            "yield": 0,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": null,
+                    "div": null
+                },
+                "2024": {
+                    "price": 750,
+                    "div": 0
+                },
+                "2025": {
+                    "price": 765,
+                    "div": 0
+                },
+                "2026": {
+                    "price": 780,
+                    "div": null
+                }
+            }
+        },
+        "AOM": {
+            "ticker": "AOM",
+            "name": "AOM Invest",
+            "sector": "Tourisme / Immo",
+            "sectorKey": "Immo/Hôtellerie",
+            "ipoYear": 2018,
+            "ipoPrice": 400,
+            "currentPrice": 290,
+            "change": "0,00 %",
+            "open": 290.0,
+            "close": null,
+            "volume": 0,
+            "value": 0,
+            "description": "AOM Invest est une entreprise privée d'investissement à vocation touristique et immobilière. Introduite sur la bourse des PME en 2018, elle gère des actifs de loisir, d'hôtellerie balnéaire et des programmes de promotion touristique.",
+            "div2023": 0,
+            "div2024": 0,
+            "div2025": 0,
+            "yield": 0,
+            "yieldTarget": false,
+            "history": {
+                "2023": {
+                    "price": 310,
+                    "div": 0
+                },
+                "2024": {
+                    "price": 300,
+                    "div": 0
+                },
+                "2025": {
+                    "price": 295,
+                    "div": 0
+                },
+                "2026": {
+                    "price": 290,
+                    "div": null
+                }
+            }
+        }
+    },
+    "bonds": [
+        {
+            "ticker": "AL30",
+            "name": "ARAB LEASING CORPORATION",
+            "open": 100.0,
+            "close": null,
+            "change": "0,00 %",
+            "coupon": "OBLIG 6.5%"
+        },
+        {
+            "ticker": "ML30",
+            "name": "MAGHREB LEASING ALGERIE",
+            "open": 100.0,
+            "close": null,
+            "change": "0,00 %",
+            "coupon": "OBLIG 6.25%"
+        },
+        {
+            "ticker": "TS30",
+            "name": "TOSYALI ALGERIE",
+            "open": 99.0,
+            "close": null,
+            "change": "0,00 %",
+            "coupon": "OBLIG 5.75%"
+        },
+        {
+            "ticker": "O150527",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700272",
+            "open": 106.3,
+            "close": 106.3,
+            "change": "0,00 %",
+            "coupon": "3.75 %",
+            "issueDate": "02/05/2012",
+            "maturityDate": "03/05/2027",
+            "encours": "15 000,00"
+        },
+        {
+            "ticker": "O150728",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700306",
+            "open": 100.0,
+            "close": 100.0,
+            "change": "0,00 %",
+            "coupon": "3.75 %",
+            "issueDate": "03/07/2013",
+            "maturityDate": "07/07/2028",
+            "encours": "5 000,00"
+        },
+        {
+            "ticker": "O150329",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700330",
+            "open": 100.1,
+            "close": 100.1,
+            "change": "0,00 %",
+            "coupon": "3.75 %",
+            "issueDate": "23/03/2014",
+            "maturityDate": "23/03/2029",
+            "encours": "48 177,00"
+        },
+        {
+            "ticker": "O150730",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700363",
+            "open": 90.5,
+            "close": 90.5,
+            "change": "0,00 %",
+            "coupon": "4,00 %",
+            "issueDate": "15/07/2015",
+            "maturityDate": "19/07/2030",
+            "encours": "31 590,00"
+        },
+        {
+            "ticker": "O101027",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700397",
+            "open": 77.0,
+            "close": 77.0,
+            "change": "0,00 %",
+            "coupon": "4.00 %",
+            "issueDate": "29/10/2017",
+            "maturityDate": "29/10/2027",
+            "encours": "7 520,00"
+        },
+        {
+            "ticker": "O150233",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700421",
+            "open": 87.24,
+            "close": 87.24,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "25/02/2018",
+            "maturityDate": "04/02/2033",
+            "encours": "22 100,00"
+        },
+        {
+            "ticker": "O100128",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700413",
+            "open": 88.69,
+            "close": 88.69,
+            "change": "0,00 %",
+            "coupon": "5.75 %",
+            "issueDate": "21/01/2018",
+            "maturityDate": "21/01/2028",
+            "encours": "21 300,00"
+        },
+        {
+            "ticker": "O100229",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700439",
+            "open": 87.98,
+            "close": 87.98,
+            "change": "0,00 %",
+            "coupon": "5.75 %",
+            "issueDate": "03/02/2019",
+            "maturityDate": "03/02/2029",
+            "encours": "11 853,00"
+        },
+        {
+            "ticker": "O150434",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700454",
+            "open": 87.538,
+            "close": 87.538,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "17/04/2019",
+            "maturityDate": "21/04/2034",
+            "encours": "117 343,00"
+        },
+        {
+            "ticker": "O071026",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700462",
+            "open": 89.725,
+            "close": 89.725,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "02/10/2019",
+            "maturityDate": "06/10/2026",
+            "encours": "22 880,00"
+        },
+        {
+            "ticker": "O100230",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700470",
+            "open": 88.074,
+            "close": 88.074,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "19/02/2020",
+            "maturityDate": "23/02/2030",
+            "encours": "41 573,00"
+        },
+        {
+            "ticker": "O150435",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700488",
+            "open": 87.55,
+            "close": 87.55,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "22/04/2020",
+            "maturityDate": "26/04/2035",
+            "encours": "35 505,00"
+        },
+        {
+            "ticker": "O070727",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700496",
+            "open": 89.721,
+            "close": 89.721,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "01/07/2020",
+            "maturityDate": "05/07/2027",
+            "encours": "54 014,00"
+        },
+        {
+            "ticker": "O100331",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700504",
+            "open": 87.97,
+            "close": 87.97,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "10/03/2021",
+            "maturityDate": "14/03/2031",
+            "encours": "46 830,00"
+        },
+        {
+            "ticker": "O150436",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700512",
+            "open": 87.54,
+            "close": 87.54,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "31/03/2021",
+            "maturityDate": "04/04/2036",
+            "encours": "10 790,00"
+        },
+        {
+            "ticker": "O070628",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700520",
+            "open": 89.725,
+            "close": 89.725,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "20/06/2021",
+            "maturityDate": "20/06/2028",
+            "encours": "7 334,00"
+        },
+        {
+            "ticker": "O070929",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700538",
+            "open": 91.773,
+            "close": 91.773,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "31/08/2022",
+            "maturityDate": "04/09/2029",
+            "encours": "69 255,00"
+        },
+        {
+            "ticker": "O151237",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700546",
+            "open": 88.79,
+            "close": 88.79,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "30/11/2022",
+            "maturityDate": "04/12/2037",
+            "encours": "60 300,00"
+        },
+        {
+            "ticker": "O070130",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700553",
+            "open": 91.774,
+            "close": 91.774,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "29/01/2023",
+            "maturityDate": "29/01/2030",
+            "encours": "129 050,00"
+        },
+        {
+            "ticker": "O070530",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700561",
+            "open": 91.778,
+            "close": 91.778,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "03/05/2023",
+            "maturityDate": "07/05/2030",
+            "encours": "48 000,00"
+        },
+        {
+            "ticker": "O070630",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700579",
+            "open": 91.303,
+            "close": 91.303,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "14/06/2023",
+            "maturityDate": "18/06/2030",
+            "encours": "62 645,00"
+        },
+        {
+            "ticker": "O100933",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700587",
+            "open": 91.281,
+            "close": 91.281,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "30/08/2023",
+            "maturityDate": "03/09/2033",
+            "encours": "93 491,00"
+        },
+        {
+            "ticker": "O150938",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700595",
+            "open": 87.54,
+            "close": 87.54,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "24/09/2023",
+            "maturityDate": "24/09/2038",
+            "encours": "55 350,00"
+        },
+        {
+            "ticker": "O071030",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700603",
+            "open": 91.261,
+            "close": 91.261,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "25/10/2023",
+            "maturityDate": "29/10/2030",
+            "encours": "100 274,00"
+        },
+        {
+            "ticker": "O101233",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700611",
+            "open": 91.277,
+            "close": 91.277,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "03/12/2023",
+            "maturityDate": "03/12/2033",
+            "encours": "112 592,00"
+        },
+        {
+            "ticker": "O151238",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700629",
+            "open": 87.54,
+            "close": 87.54,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "06/12/2023",
+            "maturityDate": "10/12/2038",
+            "encours": "19 700,00"
+        },
+        {
+            "ticker": "O150239",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700637",
+            "open": 87.239,
+            "close": 87.239,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "31/01/2024",
+            "maturityDate": "04/02/2039",
+            "encours": "57 327,00"
+        },
+        {
+            "ticker": "O070231",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700645",
+            "open": 91.256,
+            "close": 91.256,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "21/02/2024",
+            "maturityDate": "25/02/2031",
+            "encours": "117 550,00"
+        },
+        {
+            "ticker": "O150339",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700652",
+            "open": 87.23,
+            "close": 87.23,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "13/03/2024",
+            "maturityDate": "17/03/2039",
+            "encours": "87 900,00"
+        },
+        {
+            "ticker": "O150439",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700660",
+            "open": 87.269,
+            "close": 87.269,
+            "change": "0,00 %",
+            "coupon": "6,50%",
+            "issueDate": "24/04/2024",
+            "maturityDate": "28/04/2039",
+            "encours": "15 030,00"
+        },
+        {
+            "ticker": "O150639",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700678",
+            "open": 87.22,
+            "close": 87.22,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "26/06/2024",
+            "maturityDate": "30/06/2039",
+            "encours": "7 500,00"
+        },
+        {
+            "ticker": "O150739",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700686",
+            "open": 87.392,
+            "close": 87.392,
+            "change": "0,00 %",
+            "coupon": "6.5",
+            "issueDate": "24/07/2024",
+            "maturityDate": "28/07/2039",
+            "encours": "4 200,00"
+        },
+        {
+            "ticker": "O070931",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700694",
+            "open": 91.26,
+            "close": 91.26,
+            "change": "0,00 %",
+            "coupon": "5%",
+            "issueDate": "01/09/2024",
+            "maturityDate": "01/09/2031",
+            "encours": "104 476,00"
+        },
+        {
+            "ticker": "O150939",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700702",
+            "open": 87.224,
+            "close": 87.224,
+            "change": "0,00 %",
+            "coupon": "6.5",
+            "issueDate": "25/09/2024",
+            "maturityDate": "29/09/2039",
+            "encours": "15 000,00"
+        },
+        {
+            "ticker": "O151139",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700710",
+            "open": 87.235,
+            "close": 87.235,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "30/10/2024",
+            "maturityDate": "03/11/2036",
+            "encours": "7 000,00"
+        },
+        {
+            "ticker": "O101234",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700736",
+            "open": 91.27,
+            "close": 91.27,
+            "change": "0,00 %",
+            "coupon": "5.75",
+            "issueDate": "18/12/2024",
+            "maturityDate": "22/12/2034",
+            "encours": "50 550,00"
+        },
+        {
+            "ticker": "O151239",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700728",
+            "open": 87.224,
+            "close": 87.224,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "04/12/2024",
+            "maturityDate": "08/12/2039",
+            "encours": "23 300,00"
+        },
+        {
+            "ticker": "O070132",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700744",
+            "open": 91.258,
+            "close": 91.258,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "08/01/2025",
+            "maturityDate": "12/01/2032",
+            "encours": "102 350,00"
+        },
+        {
+            "ticker": "O150740",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700751",
+            "open": 87.209,
+            "close": 87.209,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "09/07/2025",
+            "maturityDate": "13/07/2040",
+            "encours": "43 350,00"
+        },
+        {
+            "ticker": "O100735",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700769",
+            "open": 91.267,
+            "close": 91.267,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "23/07/2025",
+            "maturityDate": "27/07/2035",
+            "encours": "42 280,00"
+        },
+        {
+            "ticker": "O070832",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700777",
+            "open": 91.258,
+            "close": 91.258,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "30/07/2025",
+            "maturityDate": "03/08/2032",
+            "encours": "88 650,00"
+        },
+        {
+            "ticker": "O151140",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700785",
+            "open": 87.175,
+            "close": 87.175,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "29/10/2025",
+            "maturityDate": "02/11/2040",
+            "encours": "36 948,00"
+        },
+        {
+            "ticker": "O070133",
+            "name": "O.A.T  7 ans",
+            "isin": "DZ0000700793",
+            "open": 91.258,
+            "close": 91.258,
+            "change": "0,00 %",
+            "coupon": "5.00%",
+            "issueDate": "31/12/2025",
+            "maturityDate": "04/01/2033",
+            "encours": "41 450,00"
+        },
+        {
+            "ticker": "O150341",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700801",
+            "open": 87.175,
+            "close": 87.175,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "18/03/2026",
+            "maturityDate": "19/03/2041",
+            "encours": "14 475,00"
+        },
+        {
+            "ticker": "O150541",
+            "name": "O.A.T  15 ans",
+            "isin": "DZ0000700819",
+            "open": 87.162,
+            "close": 87.162,
+            "change": "0,00 %",
+            "coupon": "6.50%",
+            "issueDate": "13/05/2026",
+            "maturityDate": "17/05/2041",
+            "encours": "8 300,00"
+        }
+    ],
+    "index_history": [
+        [
+            1626912000000,
+            1725.737
+        ],
+        [
+            1627171200000,
+            1725.737
+        ],
+        [
+            1627344000000,
+            1725.737
+        ],
+        [
+            1627516800000,
+            1725.737
+        ],
+        [
+            1627776000000,
+            1726.152
+        ],
+        [
+            1627948800000,
+            1726.152
+        ],
+        [
+            1628121600000,
+            1726.152
+        ],
+        [
+            1628380800000,
+            1732.742
+        ],
+        [
+            1628640000000,
+            1732.742
+        ],
+        [
+            1628726400000,
+            1732.742
+        ],
+        [
+            1628985600000,
+            1732.742
+        ],
+        [
+            1629158400000,
+            1732.742
+        ],
+        [
+            1629590400000,
+            1732.742
+        ],
+        [
+            1629763200000,
+            1732.742
+        ],
+        [
+            1629936000000,
+            1732.742
+        ],
+        [
+            1630195200000,
+            1743.334
+        ],
+        [
+            1630368000000,
+            1743.334
+        ],
+        [
+            1630540800000,
+            1743.334
+        ],
+        [
+            1630800000000,
+            1743.334
+        ],
+        [
+            1630972800000,
+            1743.334
+        ],
+        [
+            1631145600000,
+            1743.334
+        ],
+        [
+            1631404800000,
+            1743.334
+        ],
+        [
+            1631577600000,
+            1743.334
+        ],
+        [
+            1631750400000,
+            1743.334
+        ],
+        [
+            1632009600000,
+            1743.334
+        ],
+        [
+            1632182400000,
+            1743.334
+        ],
+        [
+            1632355200000,
+            1743.334
+        ],
+        [
+            1632614400000,
+            1743.334
+        ],
+        [
+            1632787200000,
+            1759.232
+        ],
+        [
+            1632960000000,
+            1759.232
+        ],
+        [
+            1633219200000,
+            1759.232
+        ],
+        [
+            1633392000000,
+            1759.831
+        ],
+        [
+            1633564800000,
+            1759.831
+        ],
+        [
+            1633824000000,
+            1759.831
+        ],
+        [
+            1633996800000,
+            1759.831
+        ],
+        [
+            1634169600000,
+            1818.088
+        ],
+        [
+            1634428800000,
+            1819.148
+        ],
+        [
+            1634688000000,
+            1819.148
+        ],
+        [
+            1634774400000,
+            1819.148
+        ],
+        [
+            1635033600000,
+            1819.148
+        ],
+        [
+            1635206400000,
+            1819.148
+        ],
+        [
+            1635379200000,
+            1819.148
+        ],
+        [
+            1635638400000,
+            1819.148
+        ],
+        [
+            1635811200000,
+            1823.94
+        ],
+        [
+            1635984000000,
+            1823.94
+        ],
+        [
+            1636243200000,
+            1823.94
+        ],
+        [
+            1636416000000,
+            1834.489
+        ],
+        [
+            1636588800000,
+            1834.489
+        ],
+        [
+            1636848000000,
+            1834.489
+        ],
+        [
+            1637020800000,
+            1854.614
+        ],
+        [
+            1637193600000,
+            1854.614
+        ],
+        [
+            1637452800000,
+            1885.983
+        ],
+        [
+            1637625600000,
+            1885.983
+        ],
+        [
+            1637798400000,
+            1885.983
+        ],
+        [
+            1638057600000,
+            1885.983
+        ],
+        [
+            1638230400000,
+            1885.983
+        ],
+        [
+            1638403200000,
+            1893.954
+        ],
+        [
+            1638662400000,
+            1893.954
+        ],
+        [
+            1638835200000,
+            1923.612
+        ],
+        [
+            1639008000000,
+            1923.612
+        ],
+        [
+            1639267200000,
+            1923.612
+        ],
+        [
+            1639440000000,
+            1923.612
+        ],
+        [
+            1639612800000,
+            1923.612
+        ],
+        [
+            1639872000000,
+            1923.612
+        ],
+        [
+            1640044800000,
+            1923.612
+        ],
+        [
+            1640217600000,
+            1923.612
+        ],
+        [
+            1640476800000,
+            1923.612
+        ],
+        [
+            1640649600000,
+            1923.612
+        ],
+        [
+            1640822400000,
+            1923.612
+        ],
+        [
+            1641081600000,
+            1923.612
+        ],
+        [
+            1641254400000,
+            1923.612
+        ],
+        [
+            1641427200000,
+            1923.612
+        ],
+        [
+            1641686400000,
+            1923.612
+        ],
+        [
+            1641859200000,
+            1923.612
+        ],
+        [
+            1642032000000,
+            1923.612
+        ],
+        [
+            1642291200000,
+            1923.612
+        ],
+        [
+            1642464000000,
+            1923.612
+        ],
+        [
+            1642636800000,
+            1923.612
+        ],
+        [
+            1642896000000,
+            1923.612
+        ],
+        [
+            1643068800000,
+            1923.612
+        ],
+        [
+            1643241600000,
+            1923.612
+        ],
+        [
+            1643500800000,
+            1923.612
+        ],
+        [
+            1643673600000,
+            1924.671
+        ],
+        [
+            1643846400000,
+            1924.671
+        ],
+        [
+            1644105600000,
+            1924.671
+        ],
+        [
+            1644278400000,
+            1936.653
+        ],
+        [
+            1644451200000,
+            1936.653
+        ],
+        [
+            1644710400000,
+            1936.653
+        ],
+        [
+            1644883200000,
+            1936.653
+        ],
+        [
+            1645056000000,
+            1936.653
+        ],
+        [
+            1645315200000,
+            1936.653
+        ],
+        [
+            1645488000000,
+            1936.653
+        ],
+        [
+            1645660800000,
+            1936.653
+        ],
+        [
+            1645920000000,
+            1936.653
+        ],
+        [
+            1646092800000,
+            1938.771
+        ],
+        [
+            1646265600000,
+            1938.771
+        ],
+        [
+            1646524800000,
+            1938.771
+        ],
+        [
+            1646697600000,
+            1936.281
+        ],
+        [
+            1646870400000,
+            1936.281
+        ],
+        [
+            1647129600000,
+            1936.281
+        ],
+        [
+            1647302400000,
+            1936.281
+        ],
+        [
+            1647475200000,
+            1936.281
+        ],
+        [
+            1647734400000,
+            1936.281
+        ],
+        [
+            1647907200000,
+            1937.341
+        ],
+        [
+            1648080000000,
+            1941.534
+        ],
+        [
+            1648339200000,
+            1941.534
+        ],
+        [
+            1648512000000,
+            1941.534
+        ],
+        [
+            1648684800000,
+            1941.534
+        ],
+        [
+            1648944000000,
+            1941.534
+        ],
+        [
+            1649116800000,
+            1942.593
+        ],
+        [
+            1649289600000,
+            1942.593
+        ],
+        [
+            1649548800000,
+            1942.593
+        ],
+        [
+            1649721600000,
+            1943.192
+        ],
+        [
+            1649894400000,
+            1943.192
+        ],
+        [
+            1650153600000,
+            1943.192
+        ],
+        [
+            1650326400000,
+            1943.192
+        ],
+        [
+            1650499200000,
+            1943.192
+        ],
+        [
+            1650758400000,
+            1943.192
+        ],
+        [
+            1650931200000,
+            1962.363
+        ],
+        [
+            1651104000000,
+            1962.363
+        ],
+        [
+            1651622400000,
+            1962.363
+        ],
+        [
+            1651708800000,
+            1962.363
+        ],
+        [
+            1651968000000,
+            1962.363
+        ],
+        [
+            1652140800000,
+            1962.363
+        ],
+        [
+            1652313600000,
+            1962.363
+        ],
+        [
+            1652572800000,
+            1962.363
+        ],
+        [
+            1652745600000,
+            1962.962
+        ],
+        [
+            1652918400000,
+            1963.377
+        ],
+        [
+            1653177600000,
+            1963.377
+        ],
+        [
+            1653350400000,
+            2111.86
+        ],
+        [
+            1653523200000,
+            2111.86
+        ],
+        [
+            1653782400000,
+            2111.86
+        ],
+        [
+            1653955200000,
+            2111.86
+        ],
+        [
+            1654128000000,
+            2187.066
+        ],
+        [
+            1654387200000,
+            2187.665
+        ],
+        [
+            1654560000000,
+            2187.665
+        ],
+        [
+            1654732800000,
+            2187.665
+        ],
+        [
+            1654992000000,
+            2266.048
+        ],
+        [
+            1655164800000,
+            2266.048
+        ],
+        [
+            1655337600000,
+            2267.246
+        ],
+        [
+            1655596800000,
+            2267.246
+        ],
+        [
+            1655769600000,
+            2350.925
+        ],
+        [
+            1655942400000,
+            2438.841
+        ],
+        [
+            1656201600000,
+            2438.841
+        ],
+        [
+            1656374400000,
+            2438.841
+        ],
+        [
+            1656547200000,
+            2432.561
+        ],
+        [
+            1656806400000,
+            2432.561
+        ],
+        [
+            1657065600000,
+            2432.976
+        ],
+        [
+            1657152000000,
+            2518.774
+        ],
+        [
+            1657497600000,
+            2518.774
+        ],
+        [
+            1657584000000,
+            2518.359
+        ],
+        [
+            1657756800000,
+            2518.359
+        ],
+        [
+            1658016000000,
+            2518.359
+        ],
+        [
+            1658188800000,
+            2590.386
+        ],
+        [
+            1658361600000,
+            2590.386
+        ],
+        [
+            1658620800000,
+            2590.386
+        ],
+        [
+            1658793600000,
+            2590.386
+        ],
+        [
+            1658966400000,
+            2524.178
+        ],
+        [
+            1659225600000,
+            2524.178
+        ],
+        [
+            1659398400000,
+            2590.386
+        ],
+        [
+            1659571200000,
+            2590.386
+        ],
+        [
+            1659830400000,
+            2590.386
+        ],
+        [
+            1660003200000,
+            2590.386
+        ],
+        [
+            1660176000000,
+            2590.386
+        ],
+        [
+            1660435200000,
+            2590.386
+        ],
+        [
+            1660608000000,
+            2590.386
+        ],
+        [
+            1660780800000,
+            2590.386
+        ],
+        [
+            1661040000000,
+            2610.349
+        ],
+        [
+            1661212800000,
+            2610.349
+        ],
+        [
+            1661385600000,
+            2610.349
+        ],
+        [
+            1661644800000,
+            2610.349
+        ],
+        [
+            1661817600000,
+            2610.349
+        ],
+        [
+            1661990400000,
+            2610.349
+        ],
+        [
+            1662249600000,
+            2610.349
+        ],
+        [
+            1662422400000,
+            2610.349
+        ],
+        [
+            1662595200000,
+            2610.349
+        ],
+        [
+            1662854400000,
+            2610.349
+        ],
+        [
+            1663027200000,
+            2610.349
+        ],
+        [
+            1663200000000,
+            2610.349
+        ],
+        [
+            1663459200000,
+            2610.349
+        ],
+        [
+            1663632000000,
+            2610.349
+        ],
+        [
+            1663804800000,
+            2610.349
+        ],
+        [
+            1664064000000,
+            2610.349
+        ],
+        [
+            1664236800000,
+            2610.349
+        ],
+        [
+            1664409600000,
+            2610.349
+        ],
+        [
+            1664668800000,
+            2613.806
+        ],
+        [
+            1664841600000,
+            2613.806
+        ],
+        [
+            1665014400000,
+            2613.806
+        ],
+        [
+            1665273600000,
+            2613.806
+        ],
+        [
+            1665446400000,
+            2613.806
+        ],
+        [
+            1665619200000,
+            2613.806
+        ],
+        [
+            1665878400000,
+            2613.806
+        ],
+        [
+            1666051200000,
+            2613.806
+        ],
+        [
+            1666224000000,
+            2614.458
+        ],
+        [
+            1666483200000,
+            2626.188
+        ],
+        [
+            1666656000000,
+            2626.188
+        ],
+        [
+            1666828800000,
+            2652.689
+        ],
+        [
+            1667088000000,
+            2652.689
+        ],
+        [
+            1667347200000,
+            2640.959
+        ],
+        [
+            1667433600000,
+            2640.959
+        ],
+        [
+            1667692800000,
+            2640.959
+        ],
+        [
+            1667865600000,
+            2742.355
+        ],
+        [
+            1668038400000,
+            2740.549
+        ],
+        [
+            1668297600000,
+            2741.852
+        ],
+        [
+            1668470400000,
+            2741.852
+        ],
+        [
+            1668643200000,
+            2741.852
+        ],
+        [
+            1668902400000,
+            2741.852
+        ],
+        [
+            1669075200000,
+            2741.852
+        ],
+        [
+            1669248000000,
+            2741.852
+        ],
+        [
+            1669507200000,
+            2741.852
+        ],
+        [
+            1669680000000,
+            2754.234
+        ],
+        [
+            1669852800000,
+            2754.234
+        ],
+        [
+            1670112000000,
+            2754.234
+        ],
+        [
+            1670284800000,
+            2754.234
+        ],
+        [
+            1670457600000,
+            2754.886
+        ],
+        [
+            1670716800000,
+            2754.886
+        ],
+        [
+            1670889600000,
+            2754.886
+        ],
+        [
+            1671062400000,
+            2754.886
+        ],
+        [
+            1671321600000,
+            2754.886
+        ],
+        [
+            1671494400000,
+            2965.743
+        ],
+        [
+            1671667200000,
+            2965.743
+        ],
+        [
+            1671926400000,
+            2965.743
+        ],
+        [
+            1672099200000,
+            3082.117
+        ],
+        [
+            1672272000000,
+            3082.117
+        ],
+        [
+            1672617600000,
+            3082.117
+        ],
+        [
+            1672704000000,
+            3082.117
+        ],
+        [
+            1672876800000,
+            3082.117
+        ],
+        [
+            1673136000000,
+            3204.253
+        ],
+        [
+            1673308800000,
+            3204.253
+        ],
+        [
+            1673740800000,
+            3204.253
+        ],
+        [
+            1673913600000,
+            3332.15
+        ],
+        [
+            1674086400000,
+            3331.498
+        ],
+        [
+            1674345600000,
+            3332.15
+        ],
+        [
+            1674518400000,
+            3466.96
+        ],
+        [
+            1674691200000,
+            3335.106
+        ],
+        [
+            1674950400000,
+            3335.106
+        ],
+        [
+            1675123200000,
+            3403.087
+        ],
+        [
+            1675296000000,
+            3403.087
+        ],
+        [
+            1675555200000,
+            3403.087
+        ],
+        [
+            1675728000000,
+            3343.228
+        ],
+        [
+            1675900800000,
+            3343.228
+        ],
+        [
+            1676160000000,
+            3343.228
+        ],
+        [
+            1676332800000,
+            3343.228
+        ],
+        [
+            1676505600000,
+            3478.038
+        ],
+        [
+            1676764800000,
+            3478.038
+        ],
+        [
+            1676937600000,
+            3478.038
+        ],
+        [
+            1677110400000,
+            3467.612
+        ],
+        [
+            1677369600000,
+            3467.612
+        ],
+        [
+            1677542400000,
+            3467.612
+        ],
+        [
+            1677715200000,
+            3517.157
+        ],
+        [
+            1677974400000,
+            3517.157
+        ],
+        [
+            1678147200000,
+            3517.157
+        ],
+        [
+            1678320000000,
+            3528.736
+        ],
+        [
+            1678579200000,
+            3531.343
+        ],
+        [
+            1678752000000,
+            3531.343
+        ],
+        [
+            1678924800000,
+            3613.151
+        ],
+        [
+            1679184000000,
+            3613.151
+        ],
+        [
+            1679356800000,
+            3614.454
+        ],
+        [
+            1679529600000,
+            3614.454
+        ],
+        [
+            1679788800000,
+            3614.454
+        ],
+        [
+            1679961600000,
+            3614.454
+        ],
+        [
+            1680134400000,
+            3614.454
+        ],
+        [
+            1680393600000,
+            3614.454
+        ],
+        [
+            1680566400000,
+            3614.454
+        ],
+        [
+            1680739200000,
+            3602.266
+        ],
+        [
+            1680998400000,
+            3602.266
+        ],
+        [
+            1681171200000,
+            3602.266
+        ],
+        [
+            1681344000000,
+            3602.266
+        ],
+        [
+            1681603200000,
+            3602.266
+        ],
+        [
+            1681776000000,
+            3602.266
+        ],
+        [
+            1681948800000,
+            3602.266
+        ],
+        [
+            1682208000000,
+            3602.266
+        ],
+        [
+            1682380800000,
+            3605.722
+        ],
+        [
+            1682553600000,
+            3607.677
+        ],
+        [
+            1682812800000,
+            3607.677
+        ],
+        [
+            1682985600000,
+            3619.408
+        ],
+        [
+            1683158400000,
+            3705.824
+        ],
+        [
+            1683417600000,
+            3705.824
+        ],
+        [
+            1683590400000,
+            3705.824
+        ],
+        [
+            1683763200000,
+            3610.634
+        ],
+        [
+            1684022400000,
+            3621.712
+        ],
+        [
+            1684195200000,
+            3723.108
+        ],
+        [
+            1684368000000,
+            3723.108
+        ],
+        [
+            1684627200000,
+            3723.108
+        ],
+        [
+            1684800000000,
+            3723.108
+        ],
+        [
+            1684972800000,
+            3723.108
+        ],
+        [
+            1685232000000,
+            3647.061
+        ],
+        [
+            1685404800000,
+            3648.213
+        ],
+        [
+            1685577600000,
+            3621.712
+        ],
+        [
+            1685836800000,
+            3621.712
+        ],
+        [
+            1686009600000,
+            3625.169
+        ],
+        [
+            1686182400000,
+            3625.169
+        ],
+        [
+            1686441600000,
+            3625.169
+        ],
+        [
+            1686614400000,
+            3625.169
+        ],
+        [
+            1686787200000,
+            3625.169
+        ],
+        [
+            1687046400000,
+            3625.169
+        ],
+        [
+            1687219200000,
+            3625.169
+        ],
+        [
+            1687392000000,
+            3625.169
+        ],
+        [
+            1687651200000,
+            3625.169
+        ],
+        [
+            1687824000000,
+            3625.169
+        ],
+        [
+            1688256000000,
+            3625.169
+        ],
+        [
+            1688428800000,
+            3625.169
+        ],
+        [
+            1688601600000,
+            3625.169
+        ],
+        [
+            1688860800000,
+            3625.169
+        ],
+        [
+            1689033600000,
+            3625.169
+        ],
+        [
+            1689206400000,
+            3625.169
+        ],
+        [
+            1689465600000,
+            3625.169
+        ],
+        [
+            1689638400000,
+            3625.169
+        ],
+        [
+            1689811200000,
+            3625.169
+        ],
+        [
+            1690070400000,
+            3625.169
+        ],
+        [
+            1690243200000,
+            3625.169
+        ],
+        [
+            1690416000000,
+            3625.169
+        ],
+        [
+            1690675200000,
+            3625.169
+        ],
+        [
+            1690848000000,
+            3625.169
+        ],
+        [
+            1691020800000,
+            3625.169
+        ],
+        [
+            1691280000000,
+            3625.169
+        ],
+        [
+            1691452800000,
+            3625.169
+        ],
+        [
+            1691625600000,
+            3625.169
+        ],
+        [
+            1691884800000,
+            3625.169
+        ],
+        [
+            1692057600000,
+            3625.169
+        ],
+        [
+            1692230400000,
+            3625.169
+        ],
+        [
+            1692489600000,
+            3625.169
+        ],
+        [
+            1692662400000,
+            3625.169
+        ],
+        [
+            1692835200000,
+            3625.169
+        ],
+        [
+            1693094400000,
+            3625.169
+        ],
+        [
+            1693267200000,
+            3625.169
+        ],
+        [
+            1693440000000,
+            3625.169
+        ],
+        [
+            1693699200000,
+            3625.169
+        ],
+        [
+            1693872000000,
+            3612.829
+        ],
+        [
+            1694044800000,
+            3612.829
+        ],
+        [
+            1694304000000,
+            3612.829
+        ],
+        [
+            1694476800000,
+            3612.829
+        ],
+        [
+            1694649600000,
+            3631.685
+        ],
+        [
+            1694908800000,
+            3631.685
+        ],
+        [
+            1695081600000,
+            3631.685
+        ],
+        [
+            1695254400000,
+            3631.685
+        ],
+        [
+            1695513600000,
+            3631.685
+        ],
+        [
+            1695686400000,
+            3643.8
+        ],
+        [
+            1696118400000,
+            3643.8
+        ],
+        [
+            1696291200000,
+            3646.382
+        ],
+        [
+            1696464000000,
+            3647.067
+        ],
+        [
+            1696723200000,
+            3647.067
+        ],
+        [
+            1696896000000,
+            3647.067
+        ],
+        [
+            1697068800000,
+            3651.704
+        ],
+        [
+            1697328000000,
+            3649.806
+        ],
+        [
+            1697500800000,
+            3649.806
+        ],
+        [
+            1697673600000,
+            3651.176
+        ],
+        [
+            1697932800000,
+            3651.176
+        ],
+        [
+            1698105600000,
+            3652.546
+        ],
+        [
+            1698278400000,
+            3652.546
+        ],
+        [
+            1698537600000,
+            3655.972
+        ],
+        [
+            1698710400000,
+            3655.972
+        ],
+        [
+            1698883200000,
+            3655.972
+        ],
+        [
+            1699142400000,
+            3655.972
+        ],
+        [
+            1699315200000,
+            3655.972
+        ],
+        [
+            1699488000000,
+            3655.972
+        ],
+        [
+            1699747200000,
+            3506.965
+        ],
+        [
+            1699920000000,
+            3513.816
+        ],
+        [
+            1700092800000,
+            3510.39
+        ],
+        [
+            1700352000000,
+            3510.39
+        ],
+        [
+            1700524800000,
+            3510.39
+        ],
+        [
+            1700697600000,
+            3506.965
+        ],
+        [
+            1700956800000,
+            3510.39
+        ],
+        [
+            1701129600000,
+            3513.816
+        ],
+        [
+            1701302400000,
+            3513.816
+        ],
+        [
+            1701561600000,
+            3513.816
+        ],
+        [
+            1701734400000,
+            3513.816
+        ],
+        [
+            1701907200000,
+            3513.816
+        ],
+        [
+            1702166400000,
+            3513.816
+        ],
+        [
+            1702339200000,
+            3513.816
+        ],
+        [
+            1702512000000,
+            3453.244
+        ],
+        [
+            1702771200000,
+            3453.244
+        ],
+        [
+            1702944000000,
+            3453.244
+        ],
+        [
+            1703116800000,
+            3447.187
+        ],
+        [
+            1703376000000,
+            3447.187
+        ],
+        [
+            1703548800000,
+            3447.187
+        ],
+        [
+            1703721600000,
+            3453.244
+        ],
+        [
+            1703980800000,
+            3453.244
+        ],
+        [
+            1704153600000,
+            3453.244
+        ],
+        [
+            1704326400000,
+            3446.393
+        ],
+        [
+            1704585600000,
+            3446.393
+        ],
+        [
+            1704758400000,
+            3446.393
+        ],
+        [
+            1704931200000,
+            3446.393
+        ],
+        [
+            1705190400000,
+            3446.393
+        ],
+        [
+            1705363200000,
+            3446.393
+        ],
+        [
+            1705536000000,
+            3446.393
+        ],
+        [
+            1705795200000,
+            3446.393
+        ],
+        [
+            1705968000000,
+            3446.393
+        ],
+        [
+            1706140800000,
+            3446.393
+        ],
+        [
+            1706400000000,
+            3446.393
+        ],
+        [
+            1706572800000,
+            3446.393
+        ],
+        [
+            1706745600000,
+            3445.918
+        ],
+        [
+            1707004800000,
+            3445.918
+        ],
+        [
+            1707177600000,
+            3505.805
+        ],
+        [
+            1707350400000,
+            3445.233
+        ],
+        [
+            1707609600000,
+            3445.233
+        ],
+        [
+            1707782400000,
+            3445.233
+        ],
+        [
+            1707955200000,
+            3445.918
+        ],
+        [
+            1708214400000,
+            3445.918
+        ],
+        [
+            1708387200000,
+            3445.233
+        ],
+        [
+            1708560000000,
+            3444.021
+        ],
+        [
+            1708819200000,
+            3444.021
+        ],
+        [
+            1708992000000,
+            3445.233
+        ],
+        [
+            1709164800000,
+            3445.918
+        ],
+        [
+            1709424000000,
+            3445.918
+        ],
+        [
+            1709596800000,
+            3445.918
+        ],
+        [
+            1709769600000,
+            3445.918
+        ],
+        [
+            1710028800000,
+            3445.918
+        ],
+        [
+            1710201600000,
+            3451.975
+        ],
+        [
+            1710374400000,
+            3445.918
+        ],
+        [
+            1710633600000,
+            3445.918
+        ],
+        [
+            1710806400000,
+            3445.918
+        ],
+        [
+            1710979200000,
+            3445.918
+        ],
+        [
+            1711238400000,
+            3445.918
+        ],
+        [
+            1711411200000,
+            3445.918
+        ],
+        [
+            1711584000000,
+            3445.918
+        ],
+        [
+            1711843200000,
+            3445.918
+        ],
+        [
+            1712016000000,
+            3440.383
+        ],
+        [
+            1712188800000,
+            3444.454
+        ],
+        [
+            1712448000000,
+            3444.454
+        ],
+        [
+            1712620800000,
+            3444.454
+        ],
+        [
+            1713052800000,
+            3444.454
+        ],
+        [
+            1713225600000,
+            3444.454
+        ],
+        [
+            1713398400000,
+            3444.454
+        ],
+        [
+            1713657600000,
+            3444.454
+        ],
+        [
+            1713830400000,
+            3444.454
+        ],
+        [
+            1714003200000,
+            3444.454
+        ],
+        [
+            1714262400000,
+            3444.454
+        ],
+        [
+            1714435200000,
+            3444.454
+        ],
+        [
+            1714608000000,
+            3444.454
+        ],
+        [
+            1714867200000,
+            3444.454
+        ],
+        [
+            1715040000000,
+            3444.454
+        ],
+        [
+            1715212800000,
+            3444.454
+        ],
+        [
+            1715472000000,
+            3444.454
+        ],
+        [
+            1715644800000,
+            3445.976
+        ],
+        [
+            1715817600000,
+            3445.976
+        ],
+        [
+            1716076800000,
+            3445.976
+        ],
+        [
+            1716249600000,
+            3446.115
+        ],
+        [
+            1716422400000,
+            3446.115
+        ],
+        [
+            1716681600000,
+            3446.115
+        ],
+        [
+            1716854400000,
+            3446.53
+        ],
+        [
+            1717027200000,
+            3446.53
+        ],
+        [
+            1717286400000,
+            3446.53
+        ],
+        [
+            1717459200000,
+            3446.668
+        ],
+        [
+            1717632000000,
+            3446.668
+        ],
+        [
+            1717891200000,
+            3446.668
+        ],
+        [
+            1718064000000,
+            3446.53
+        ],
+        [
+            1718236800000,
+            3446.53
+        ],
+        [
+            1718755200000,
+            3446.53
+        ],
+        [
+            1718841600000,
+            3446.53
+        ],
+        [
+            1719100800000,
+            3446.53
+        ],
+        [
+            1719273600000,
+            3446.53
+        ],
+        [
+            1719446400000,
+            3446.668
+        ],
+        [
+            1719705600000,
+            3446.668
+        ],
+        [
+            1719878400000,
+            3446.668
+        ],
+        [
+            1720051200000,
+            3446.668
+        ],
+        [
+            1720396800000,
+            3446.668
+        ],
+        [
+            1720483200000,
+            3451.373
+        ],
+        [
+            1720656000000,
+            3448.717
+        ],
+        [
+            1720915200000,
+            3448.717
+        ],
+        [
+            1721174400000,
+            3448.717
+        ],
+        [
+            1721260800000,
+            3448.717
+        ],
+        [
+            1721520000000,
+            3448.717
+        ],
+        [
+            1721692800000,
+            3448.717
+        ],
+        [
+            1721865600000,
+            3448.717
+        ],
+        [
+            1722124800000,
+            3448.717
+        ],
+        [
+            1722297600000,
+            3448.717
+        ],
+        [
+            1722470400000,
+            3448.717
+        ],
+        [
+            1722729600000,
+            3448.717
+        ],
+        [
+            1722902400000,
+            3599.285
+        ],
+        [
+            1723075200000,
+            3622.986
+        ],
+        [
+            1723334400000,
+            3622.986
+        ],
+        [
+            1723507200000,
+            3622.986
+        ],
+        [
+            1723680000000,
+            3622.986
+        ],
+        [
+            1723939200000,
+            3622.986
+        ],
+        [
+            1724112000000,
+            3622.986
+        ],
+        [
+            1724284800000,
+            3621.591
+        ],
+        [
+            1724544000000,
+            3621.591
+        ],
+        [
+            1724716800000,
+            3482.176
+        ],
+        [
+            1724889600000,
+            3482.176
+        ],
+        [
+            1725148800000,
+            3483.63
+        ],
+        [
+            1725321600000,
+            3618.481
+        ],
+        [
+            1725494400000,
+            3611.458
+        ],
+        [
+            1725753600000,
+            3611.458
+        ],
+        [
+            1725926400000,
+            3611.458
+        ],
+        [
+            1726099200000,
+            3617.081
+        ],
+        [
+            1726358400000,
+            3618.486
+        ],
+        [
+            1726531200000,
+            3552.647
+        ],
+        [
+            1726704000000,
+            3552.647
+        ],
+        [
+            1726963200000,
+            3615.902
+        ],
+        [
+            1727136000000,
+            3553.38
+        ],
+        [
+            1727308800000,
+            3615.644
+        ],
+        [
+            1727568000000,
+            3615.644
+        ],
+        [
+            1727740800000,
+            3476.482
+        ],
+        [
+            1727913600000,
+            3628.162
+        ],
+        [
+            1728172800000,
+            3628.162
+        ],
+        [
+            1728345600000,
+            3626.839
+        ],
+        [
+            1728518400000,
+            3625.663
+        ],
+        [
+            1728777600000,
+            3625.663
+        ],
+        [
+            1728950400000,
+            3625.663
+        ],
+        [
+            1729123200000,
+            3613.012
+        ],
+        [
+            1729382400000,
+            3613.012
+        ],
+        [
+            1729555200000,
+            3611.606
+        ],
+        [
+            1729728000000,
+            3611.753
+        ],
+        [
+            1729987200000,
+            3611.753
+        ],
+        [
+            1730160000000,
+            3611.753
+        ],
+        [
+            1730332800000,
+            3611.753
+        ],
+        [
+            1730592000000,
+            3612.986
+        ],
+        [
+            1730764800000,
+            3570.816
+        ],
+        [
+            1730937600000,
+            3556.76
+        ],
+        [
+            1731196800000,
+            3611.581
+        ],
+        [
+            1731369600000,
+            3556.76
+        ],
+        [
+            1731542400000,
+            3612.314
+        ],
+        [
+            1731801600000,
+            3611.322
+        ],
+        [
+            1731974400000,
+            3614.84
+        ],
+        [
+            1732147200000,
+            3614.426
+        ],
+        [
+            1732406400000,
+            3614.426
+        ],
+        [
+            1732579200000,
+            3607.397
+        ],
+        [
+            1732752000000,
+            3607.397
+        ],
+        [
+            1733011200000,
+            3607.397
+        ],
+        [
+            1733184000000,
+            3586.312
+        ],
+        [
+            1733356800000,
+            3565.407
+        ],
+        [
+            1733616000000,
+            3565.407
+        ],
+        [
+            1733788800000,
+            3565.407
+        ],
+        [
+            1733961600000,
+            3562.596
+        ],
+        [
+            1734220800000,
+            3562.596
+        ],
+        [
+            1734393600000,
+            3562.596
+        ],
+        [
+            1734566400000,
+            3558.199
+        ],
+        [
+            1734825600000,
+            3556.793
+        ],
+        [
+            1734998400000,
+            3558.379
+        ],
+        [
+            1735171200000,
+            3557.964
+        ],
+        [
+            1735430400000,
+            3557.964
+        ],
+        [
+            1735603200000,
+            3579.049
+        ],
+        [
+            1735776000000,
+            3579.049
+        ],
+        [
+            1736035200000,
+            3579.049
+        ],
+        [
+            1736208000000,
+            3557.964
+        ],
+        [
+            1736380800000,
+            3607.163
+        ],
+        [
+            1736726400000,
+            3598.729
+        ],
+        [
+            1736812800000,
+            3611.38
+        ],
+        [
+            1736985600000,
+            3621.22
+        ],
+        [
+            1737244800000,
+            3621.22
+        ],
+        [
+            1737417600000,
+            3624.151
+        ],
+        [
+            1737590400000,
+            3612.846
+        ],
+        [
+            1737849600000,
+            3612.846
+        ],
+        [
+            1738022400000,
+            3614.311
+        ],
+        [
+            1738195200000,
+            3614.311
+        ],
+        [
+            1738454400000,
+            3611.5
+        ],
+        [
+            1738627200000,
+            3610.094
+        ],
+        [
+            1738800000000,
+            3613.026
+        ],
+        [
+            1739059200000,
+            3613.026
+        ],
+        [
+            1739232000000,
+            3613.026
+        ],
+        [
+            1739404800000,
+            3613.026
+        ],
+        [
+            1739664000000,
+            3581.849
+        ],
+        [
+            1739836800000,
+            3583.449
+        ],
+        [
+            1740009600000,
+            3585.001
+        ],
+        [
+            1740268800000,
+            3613.115
+        ],
+        [
+            1740441600000,
+            3613.701
+        ],
+        [
+            1740614400000,
+            3598.385
+        ],
+        [
+            1740873600000,
+            3598.385
+        ],
+        [
+            1741046400000,
+            3584.386
+        ],
+        [
+            1741219200000,
+            3584.227
+        ],
+        [
+            1741478400000,
+            3584.227
+        ],
+        [
+            1741651200000,
+            3532.217
+        ],
+        [
+            1741824000000,
+            3532.217
+        ],
+        [
+            1742083200000,
+            3532.217
+        ],
+        [
+            1742256000000,
+            3521.49
+        ],
+        [
+            1742428800000,
+            3473.792
+        ],
+        [
+            1742688000000,
+            3473.792
+        ],
+        [
+            1742860800000,
+            3521.49
+        ],
+        [
+            1743033600000,
+            3521.49
+        ],
+        [
+            1743292800000,
+            3521.49
+        ],
+        [
+            1743638400000,
+            3521.49
+        ],
+        [
+            1743897600000,
+            3521.49
+        ],
+        [
+            1744070400000,
+            3521.49
+        ],
+        [
+            1744243200000,
+            3615.015
+        ],
+        [
+            1744502400000,
+            3615.015
+        ],
+        [
+            1744675200000,
+            3615.015
+        ],
+        [
+            1744848000000,
+            3614.135
+        ],
+        [
+            1745107200000,
+            3615.07
+        ],
+        [
+            1745280000000,
+            3615.015
+        ],
+        [
+            1745452800000,
+            3615.308
+        ],
+        [
+            1745712000000,
+            3615.308
+        ],
+        [
+            1745884800000,
+            3619.597
+        ],
+        [
+            1746316800000,
+            3619.597
+        ],
+        [
+            1746489600000,
+            3624.01
+        ],
+        [
+            1746662400000,
+            3624.01
+        ],
+        [
+            1746921600000,
+            3628.232
+        ],
+        [
+            1747094400000,
+            3627.68
+        ],
+        [
+            1747267200000,
+            3627.68
+        ],
+        [
+            1747526400000,
+            3627.68
+        ],
+        [
+            1747699200000,
+            3637.53
+        ],
+        [
+            1747872000000,
+            3637.53
+        ],
+        [
+            1748131200000,
+            3637.53
+        ],
+        [
+            1748304000000,
+            3641.751
+        ],
+        [
+            1748476800000,
+            3638.276
+        ],
+        [
+            1748736000000,
+            3641.654
+        ],
+        [
+            1748908800000,
+            3641.654
+        ],
+        [
+            1749081600000,
+            3636.778
+        ],
+        [
+            1749427200000,
+            3636.778
+        ],
+        [
+            1749513600000,
+            3636.778
+        ],
+        [
+            1749686400000,
+            3636.778
+        ],
+        [
+            1749945600000,
+            3641.0
+        ],
+        [
+            1750118400000,
+            3641.844
+        ],
+        [
+            1750291200000,
+            3642.103
+        ],
+        [
+            1750550400000,
+            3642.103
+        ],
+        [
+            1750723200000,
+            3644.286
+        ],
+        [
+            1750896000000,
+            3645.221
+        ],
+        [
+            1751155200000,
+            3645.221
+        ],
+        [
+            1751328000000,
+            3645.221
+        ],
+        [
+            1751500800000,
+            3661.264
+        ],
+        [
+            1751846400000,
+            3661.264
+        ],
+        [
+            1751932800000,
+            3662.108
+        ],
+        [
+            1752105600000,
+            3662.439
+        ],
+        [
+            1752364800000,
+            3662.439
+        ],
+        [
+            1752537600000,
+            3662.439
+        ],
+        [
+            1752710400000,
+            3725.871
+        ],
+        [
+            1752969600000,
+            3734.469
+        ],
+        [
+            1753142400000,
+            3836.61
+        ],
+        [
+            1753315200000,
+            3827.391
+        ],
+        [
+            1753574400000,
+            3831.832
+        ],
+        [
+            1753747200000,
+            3822.951
+        ],
+        [
+            1753920000000,
+            3822.062
+        ],
+        [
+            1754179200000,
+            3821.173
+        ],
+        [
+            1754352000000,
+            3808.933
+        ],
+        [
+            1754524800000,
+            3798.557
+        ],
+        [
+            1754784000000,
+            3816.332
+        ],
+        [
+            1754956800000,
+            3815.444
+        ],
+        [
+            1755129600000,
+            3812.586
+        ],
+        [
+            1755388800000,
+            3811.0
+        ],
+        [
+            1755561600000,
+            3796.588
+        ],
+        [
+            1755734400000,
+            3796.588
+        ],
+        [
+            1755993600000,
+            3811.888
+        ],
+        [
+            1756166400000,
+            3804.587
+        ],
+        [
+            1756339200000,
+            3808.046
+        ],
+        [
+            1756598400000,
+            3803.583
+        ],
+        [
+            1756771200000,
+            3806.961
+        ],
+        [
+            1756944000000,
+            3806.372
+        ],
+        [
+            1757203200000,
+            3806.089
+        ],
+        [
+            1757376000000,
+            3793.812
+        ],
+        [
+            1757548800000,
+            3795.007
+        ],
+        [
+            1757808000000,
+            3786.973
+        ],
+        [
+            1757980800000,
+            3778.075
+        ],
+        [
+            1758153600000,
+            3755.498
+        ],
+        [
+            1758412800000,
+            3756.39
+        ],
+        [
+            1758585600000,
+            3756.996
+        ],
+        [
+            1758758400000,
+            3647.246
+        ],
+        [
+            1759017600000,
+            3651.709
+        ],
+        [
+            1759190400000,
+            3658.003
+        ],
+        [
+            1759363200000,
+            3640.205
+        ],
+        [
+            1759622400000,
+            3635.262
+        ],
+        [
+            1759795200000,
+            3550.132
+        ],
+        [
+            1759968000000,
+            3550.132
+        ],
+        [
+            1760227200000,
+            3611.024
+        ],
+        [
+            1760400000000,
+            3602.097
+        ],
+        [
+            1760572800000,
+            3712.864
+        ],
+        [
+            1760832000000,
+            3788.997
+        ],
+        [
+            1761004800000,
+            3788.513
+        ],
+        [
+            1761177600000,
+            3798.4
+        ],
+        [
+            1761436800000,
+            3803.344
+        ],
+        [
+            1761609600000,
+            3833.006
+        ],
+        [
+            1761782400000,
+            3837.344
+        ],
+        [
+            1762041600000,
+            3837.344
+        ],
+        [
+            1762214400000,
+            3841.468
+        ],
+        [
+            1762387200000,
+            3836.215
+        ],
+        [
+            1762646400000,
+            3832.184
+        ],
+        [
+            1762819200000,
+            3831.801
+        ],
+        [
+            1762992000000,
+            3831.801
+        ],
+        [
+            1763251200000,
+            3832.687
+        ],
+        [
+            1763424000000,
+            3832.687
+        ],
+        [
+            1763596800000,
+            3832.687
+        ],
+        [
+            1763856000000,
+            3832.687
+        ],
+        [
+            1764028800000,
+            3831.698
+        ],
+        [
+            1764201600000,
+            3832.79
+        ],
+        [
+            1764460800000,
+            3832.609
+        ],
+        [
+            1764633600000,
+            3834.885
+        ],
+        [
+            1764806400000,
+            3834.885
+        ],
+        [
+            1765065600000,
+            3833.897
+        ],
+        [
+            1765238400000,
+            3833.984
+        ],
+        [
+            1765411200000,
+            3834.973
+        ],
+        [
+            1765670400000,
+            3835.235
+        ],
+        [
+            1765843200000,
+            3834.246
+        ],
+        [
+            1766016000000,
+            3835.235
+        ],
+        [
+            1766275200000,
+            3835.235
+        ],
+        [
+            1766448000000,
+            3836.197
+        ],
+        [
+            1766620800000,
+            3836.197
+        ],
+        [
+            1766880000000,
+            3836.197
+        ],
+        [
+            1767052800000,
+            3845.124
+        ],
+        [
+            1767484800000,
+            3845.124
+        ],
+        [
+            1767657600000,
+            3845.124
+        ],
+        [
+            1767830400000,
+            3844.135
+        ],
+        [
+            1768089600000,
+            3844.135
+        ],
+        [
+            1768262400000,
+            3833.231
+        ],
+        [
+            1768435200000,
+            3833.319
+        ],
+        [
+            1768694400000,
+            3834.543
+        ],
+        [
+            1768867200000,
+            3833.554
+        ],
+        [
+            1769040000000,
+            3834.543
+        ],
+        [
+            1769299200000,
+            3834.543
+        ],
+        [
+            1769472000000,
+            3832.566
+        ],
+        [
+            1769644800000,
+            3832.566
+        ],
+        [
+            1769904000000,
+            3832.566
+        ],
+        [
+            1770076800000,
+            3827.622
+        ],
+        [
+            1770249600000,
+            3826.633
+        ],
+        [
+            1770508800000,
+            3826.633
+        ],
+        [
+            1770681600000,
+            3822.678
+        ],
+        [
+            1770854400000,
+            3806.858
+        ],
+        [
+            1771113600000,
+            3806.858
+        ],
+        [
+            1771286400000,
+            3798.063
+        ],
+        [
+            1771459200000,
+            3788.072
+        ],
+        [
+            1771718400000,
+            3788.072
+        ],
+        [
+            1771891200000,
+            3787.083
+        ],
+        [
+            1772064000000,
+            3787.186
+        ],
+        [
+            1772323200000,
+            3785.209
+        ],
+        [
+            1772496000000,
+            3785.209
+        ],
+        [
+            1772668800000,
+            3776.502
+        ],
+        [
+            1772928000000,
+            3777.395
+        ],
+        [
+            1773100800000,
+            3777.395
+        ],
+        [
+            1773273600000,
+            3777.395
+        ],
+        [
+            1773532800000,
+            3775.418
+        ],
+        [
+            1773705600000,
+            3772.451
+        ],
+        [
+            1773878400000,
+            3772.451
+        ],
+        [
+            1774224000000,
+            3767.508
+        ],
+        [
+            1774310400000,
+            3766.519
+        ],
+        [
+            1774483200000,
+            3755.746
+        ],
+        [
+            1774742400000,
+            3747.836
+        ],
+        [
+            1774915200000,
+            3738.841
+        ],
+        [
+            1775088000000,
+            3687.427
+        ],
+        [
+            1775347200000,
+            3733.897
+        ],
+        [
+            1775520000000,
+            3629.187
+        ],
+        [
+            1775692800000,
+            3589.637
+        ],
+        [
+            1775952000000,
+            3629.187
+        ],
+        [
+            1776124800000,
+            3588.848
+        ],
+        [
+            1776297600000,
+            3580.237
+        ],
+        [
+            1776556800000,
+            3588.848
+        ],
+        [
+            1776729600000,
+            3618.51
+        ],
+        [
+            1776902400000,
+            3617.521
+        ],
+        [
+            1777161600000,
+            3628.397
+        ],
+        [
+            1777334400000,
+            3630.094
+        ],
+        [
+            1777507200000,
+            3630.094
+        ],
+        [
+            1777766400000,
+            3630.986
+        ],
+        [
+            1777939200000,
+            3604.326
+        ],
+        [
+            1778112000000,
+            3629.526
+        ],
+        [
+            1778371200000,
+            3629.613
+        ],
+        [
+            1778544000000,
+            3629.613
+        ],
+        [
+            1778716800000,
+            3630.506
+        ],
+        [
+            1778976000000,
+            3630.506
+        ],
+        [
+            1779148800000,
+            3607.957
+        ],
+        [
+            1779321600000,
+            3607.87
+        ],
+        [
+            1779580800000,
+            3608.858
+        ],
+        [
+            1779753600000,
+            3610.163
+        ],
+        [
+            1780185600000,
+            3608.186
+        ],
+        [
+            1780358400000,
+            3609.175
+        ],
+        [
+            1780531200000,
+            3607.197
+        ],
+        [
+            1780790400000,
+            3606.305
+        ],
+        [
+            1780963200000,
+            3606.305
+        ],
+        [
+            1781136000000,
+            3606.584
+        ],
+        [
+            1781395200000,
+            3629.133
+        ],
+        [
+            1781654400000,
+            3732.855
+        ],
+        [
+            1781740800000,
+            3837.574
+        ],
+        [
+            1782000000000,
+            3839.359
+        ],
+        [
+            1782172800000,
+            3839.359
+        ],
+        [
+            1782604800000,
+            3839.359
+        ],
+        [
+            1782777600000,
+            3839.359
+        ],
+        [
+            1783296000000,
+            3839.447
+        ],
+        [
+            1783382400000,
+            3839.487
+        ],
+        [
+            1783555200000,
+            3838.595
+        ],
+        [
+            1783814400000,
+            3839.487
+        ],
+        [
+            1783987200000,
+            3843.95
+        ],
+        [
+            1784073600000,
+            3843.95
+        ]
+    ],
+    "orders": [
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 361.0,
+            "volume": 15393,
+            "side": "Vente"
+        },
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 345.0,
+            "volume": 8236,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AOM",
+            "name": "AOM invest",
+            "price": 290.0,
+            "volume": 26388,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 825,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1420.0,
+            "volume": 5336,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 2860,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 450,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1390.0,
+            "volume": 100,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1450.0,
+            "volume": 8000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2511.0,
+            "volume": 310,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2510.0,
+            "volume": 28,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2298.0,
+            "volume": 446,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2280.0,
+            "volume": 140,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2350.0,
+            "volume": 150,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2300.0,
+            "volume": 145373,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2295.0,
+            "volume": 4207,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2250.0,
+            "volume": 338,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2325.0,
+            "volume": 1406,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2299.0,
+            "volume": 25495,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2290.0,
+            "volume": 210,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2320.0,
+            "volume": 218,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 350.0,
+            "volume": 500,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 360.0,
+            "volume": 2248,
+            "side": "Vente"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 445.0,
+            "volume": 3005,
+            "side": "Achat"
+        }
+    ],
+    "bulletins": [
+        {
+            "id": "53-26",
+            "date": "15/07/2026",
+            "file": "Avis890255509.pdf",
+            "title": "AVIS N°53-26 Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "52-26",
+            "date": "14/07/2026",
+            "file": "Avis997415515.pdf",
+            "title": "AVIS N°52-26 Portant Modification exceptionnelle du calendrier des séances de négociation"
+        },
+        {
+            "id": "51-26",
+            "date": "12/07/2026",
+            "file": "Avis778360015.pdf",
+            "title": "Avis 51-26 Portant publication de décisions SGBV"
+        },
+        {
+            "id": "50-26",
+            "date": "12/07/2026",
+            "file": "Avis1242727632.pdf",
+            "title": "Avis 50-26 PORTANT RESULTATS DE L’OPF Action AYRADE ET DEBUT DES NEGOCIATIONS"
+        },
+        {
+            "id": "48-26",
+            "date": "09/07/2026",
+            "file": "Avis1576780945.pdf",
+            "title": "Avis 48-26 PORTANT RESULTATS DE L’OPF Action CRAPC EXPERTISE ET DEBUT DES NEGOCIATIONS"
+        },
+        {
+            "id": "49-26",
+            "date": "09/07/2026",
+            "file": "Avis1159583752.pdf",
+            "title": "Avis 49-26 PORTANT INSCRIPTION DE PROMOTEUR EN BOURSE"
+        },
+        {
+            "id": "47-26",
+            "date": "07/07/2026",
+            "file": "Avis1394678799.pdf",
+            "title": "AVIS N°47-26 Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "46-26",
+            "date": "30/06/2026",
+            "file": "Avis1851328640.pdf",
+            "title": "AVIS N°46-26 Portant aménagement du calendrier des séances de négociation"
+        },
+        {
+            "id": "45-26",
+            "date": "28/06/2026",
+            "file": "Avis1554629065.pdf",
+            "title": "Avis 45-26 Portant modulation des écarts maximaux"
+        }
+    ]
+}
