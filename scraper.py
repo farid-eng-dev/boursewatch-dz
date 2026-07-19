@@ -81,7 +81,7 @@ class SGBVParser(HTMLParser):
         elif tag == "tr" and self.in_volume_table:
             self.in_tr = True
             self.temp_stat_row = []
-        elif tag == "td" and self.in_tr:
+        elif tag in ["td", "th"] and self.in_tr:
             self.in_td = True
             self.current_data = ""
             
@@ -93,7 +93,7 @@ class SGBVParser(HTMLParser):
         elif tag == "tr" and self.in_table:
             self.in_tr = True
             self.current_row = []
-        elif tag == "td" and self.in_tr:
+        elif tag in ["td", "th"] and self.in_tr:
             self.in_td = True
             self.current_data = ""
 
@@ -132,7 +132,7 @@ class SGBVParser(HTMLParser):
             elif self.in_volume_table:
                 self.in_volume_table = False
                 self.current_table_type = ""
-        elif tag == "td":
+        elif tag in ["td", "th"]:
             self.in_td = False
             if self.in_volume_table and self.in_tr:
                 self.temp_stat_row.append(self.current_data.strip())
@@ -195,7 +195,7 @@ class SGBVOrdresParser(HTMLParser):
         elif tag == "tr" and self.in_table:
             self.in_tr = True
             self.current_row = []
-        elif tag == "td" and self.in_tr:
+        elif tag in ["td", "th"] and self.in_tr:
             self.in_td = True
             self.current_data = ""
 
@@ -204,7 +204,7 @@ class SGBVOrdresParser(HTMLParser):
             self.current_data += data
 
     def handle_endtag(self, tag):
-        if tag == "td" and self.in_td:
+        if tag in ["td", "th"] and self.in_td:
             self.in_td = False
             self.current_row.append(self.current_data.strip())
         elif tag == "tr" and self.in_tr:
