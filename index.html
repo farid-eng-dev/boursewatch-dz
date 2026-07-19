@@ -8317,9 +8317,45 @@
             return svgContent;
         }
 
+        }
+
+        // Function to update market status dynamically based on Algiers time (UTC+1)
+        function updateMarketStatus() {
+            const statusDisplay = document.getElementById("session-status-display");
+            if (!statusDisplay) return;
+
+            const now = new Date();
+            // Calculate UTC time and adjust to UTC+1 (Algeria Time)
+            const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+            const algiersTime = new Date(utc + 3600000);
+
+            const day = algiersTime.getDay(); // 0 = Sunday, 5 = Friday, 6 = Saturday
+            const hours = algiersTime.getHours();
+            const minutes = algiersTime.getMinutes();
+            const timeVal = hours * 100 + minutes; // e.g. 10:30 -> 1030
+
+            if (day === 5 || day === 6) { // Friday & Saturday
+                statusDisplay.innerText = "Marché Fermé";
+                statusDisplay.style.color = "var(--text-secondary)";
+            } else { // Sunday to Thursday
+                if (timeVal >= 930 && timeVal <= 1100) {
+                    statusDisplay.innerText = "Séance en Cours";
+                    statusDisplay.style.color = "var(--accent-amber)";
+                } else if (timeVal > 1100 && timeVal < 1300) {
+                    statusDisplay.innerText = "Calcul de Clôture";
+                    statusDisplay.style.color = "var(--accent-blue)";
+                } else {
+                    statusDisplay.innerText = "Séance Clôturée";
+                    statusDisplay.style.color = "var(--accent-green)";
+                }
+            }
+        }
+
         // Start App
         window.onload = function() {
             loadMarketData();
+            updateMarketStatus();
+            setInterval(updateMarketStatus, 60000);
         };
     </script>
 </body>
