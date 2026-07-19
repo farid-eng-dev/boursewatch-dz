@@ -807,32 +807,37 @@ def run_scraper():
         existing_data["index_history"] = index_history
 
     # Sauvegarder dans le JSON
-    with open(db_file, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, indent=4, ensure_ascii=False)
-        
-    print(f"Base de données '{db_file}' actualisée avec succès pour la séance du {formatted_date}.")
+    db_paths = [db_file, os.path.join("netlify_deploy", db_file)]
+    for db_p in db_paths:
+        try:
+            with open(db_p, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, indent=4, ensure_ascii=False)
+            print(f"Base de données '{db_p}' actualisée avec succès pour la séance du {formatted_date}.")
+        except Exception as e:
+            print(f"Impossible d'actualiser la base de données '{db_p}' : {e}")
 
     # Mettre à jour index.html avec le nouveau fallback local
-    html_file = "index.html"
-    if os.path.exists(html_file):
-        try:
-            with open(html_file, 'r', encoding='utf-8') as f:
-                html_content = f.read()
-            
-            start_marker = "const localMarketDataFallback = {"
-            end_marker = "let marketData = localMarketDataFallback;"
-            
-            start_idx = html_content.find(start_marker)
-            end_idx = html_content.find(end_marker)
-            
-            if start_idx != -1 and end_idx != -1:
-                fallback_js = "const localMarketDataFallback = " + json.dumps(existing_data, indent=4, ensure_ascii=False) + ";"
-                new_html_content = html_content[:start_idx] + fallback_js + "\n\n        " + html_content[end_idx:]
-                with open(html_file, 'w', encoding='utf-8') as f:
-                    f.write(new_html_content)
-                print(f"Fallback local de '{html_file}' mis à jour avec succès.")
-        except Exception as e:
-            print(f"Impossible de mettre à jour le fallback local dans index.html : {e}")
+    html_files = ["index.html", os.path.join("netlify_deploy", "index.html")]
+    for html_f in html_files:
+        if os.path.exists(html_f):
+            try:
+                with open(html_f, 'r', encoding='utf-8') as f:
+                    html_content = f.read()
+                
+                start_marker = "const localMarketDataFallback = {"
+                end_marker = "let marketData = localMarketDataFallback;"
+                
+                start_idx = html_content.find(start_marker)
+                end_idx = html_content.find(end_marker)
+                
+                if start_idx != -1 and end_idx != -1:
+                    fallback_js = "const localMarketDataFallback = " + json.dumps(existing_data, indent=4, ensure_ascii=False) + ";"
+                    new_html_content = html_content[:start_idx] + fallback_js + "\n\n        " + html_content[end_idx:]
+                    with open(html_f, 'w', encoding='utf-8') as f:
+                        f.write(new_html_content)
+                    print(f"Fallback local de '{html_f}' mis à jour avec succès.")
+            except Exception as e:
+                print(f"Impossible de mettre à jour le fallback local dans {html_f} : {e}")
 
 if __name__ == "__main__":
     run_scraper()

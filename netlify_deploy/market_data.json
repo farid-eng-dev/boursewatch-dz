@@ -1,9 +1,9 @@
 {
     "session": {
-        "date": "Mercredi 15  Juillet 2026",
+        "date": "Dimanche 19  Juillet 2026",
         "index_name": "Dzair Index",
-        "index_value": 3843.95,
-        "index_change": "0,00%",
+        "index_value": 3848.517,
+        "index_change": "0,12%",
         "total_volume_equities": 0,
         "total_value_equities": 0.0,
         "total_volume_bonds": 0,
@@ -56,10 +56,10 @@
             "sectorKey": "Pharmaceutique",
             "ipoYear": 2016,
             "ipoPrice": 1225,
-            "currentPrice": 2510,
-            "change": "0,00 %",
+            "currentPrice": 2511.0,
+            "change": "0,04 %",
             "open": 2510.0,
-            "close": null,
+            "close": 2511.0,
             "volume": 450,
             "value": 1129500,
             "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
@@ -94,10 +94,10 @@
             "sectorKey": "Bancaire",
             "ipoYear": 2024,
             "ipoPrice": 1400,
-            "currentPrice": 1405.0,
-            "change": "0,00 %",
+            "currentPrice": 1410.0,
+            "change": "0,36 %",
             "open": 1405.0,
-            "close": 1405.0,
+            "close": 1410.0,
             "volume": 12000,
             "value": 16860000,
             "description": "La Banque du Développement Local (BDL) est une banque publique majeure introduite à la bourse d'Alger en 2024. Elle se concentre sur le financement du tissu industriel local, de l'artisanat, des PME ainsi que des services bancaires de proximité.",
@@ -247,9 +247,9 @@
             "ipoYear": 2026,
             "ipoPrice": 800,
             "currentPrice": 810.0,
-            "change": "+1,25 %",
-            "open": 800.0,
-            "close": 810.0,
+            "change": "0,00 %",
+            "open": 810.0,
+            "close": null,
             "volume": 20,
             "value": 16200,
             "description": "Ayrade est une société technologique dynamique introduite en 2026. Actrice majeure dans les solutions logicielles, d'hébergement web cloud et de transformation digitale en Algérie, elle vise à dynamiser le compartiment technologique de la bourse.",
@@ -4030,6 +4030,10 @@
         [
             1784073600000,
             3843.95
+        ],
+        [
+            1784419200000,
+            3848.517
         ]
     ],
     "orders": [
@@ -4057,34 +4061,6 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 825,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 5336,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 2860,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 450,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1390.0,
             "volume": 100,
             "side": "Achat"
@@ -4097,11 +4073,39 @@
             "side": "Vente"
         },
         {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 56,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1420.0,
+            "volume": 5336,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 3084,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 66,
+            "side": "Achat"
+        },
+        {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2511.0,
-            "volume": 310,
-            "side": "Achat"
+            "volume": 86,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4109,13 +4113,6 @@
             "price": 2510.0,
             "volume": 28,
             "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2298.0,
-            "volume": 446,
-            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4135,7 +4132,7 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2300.0,
-            "volume": 145373,
+            "volume": 127983,
             "side": "Vente"
         },
         {
@@ -4149,7 +4146,7 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2250.0,
-            "volume": 338,
+            "volume": 848,
             "side": "Vente"
         },
         {
@@ -4181,10 +4178,17 @@
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 350.0,
-            "volume": 500,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2200.0,
+            "volume": 100,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2298.0,
+            "volume": 446,
             "side": "Vente"
         },
         {
@@ -4192,6 +4196,13 @@
             "name": "EGH El Aurassi",
             "price": 360.0,
             "volume": 2248,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 350.0,
+            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4203,6 +4214,12 @@
         }
     ],
     "bulletins": [
+        {
+            "id": "54-26",
+            "date": "19/07/2026",
+            "file": "Avis1622880871.pdf",
+            "title": "Avis 54-26 Portant modulation des écarts maximaux"
+        },
         {
             "id": "53-26",
             "date": "15/07/2026",
@@ -4250,12 +4267,6 @@
             "date": "30/06/2026",
             "file": "Avis1851328640.pdf",
             "title": "AVIS N°46-26 Portant aménagement du calendrier des séances de négociation"
-        },
-        {
-            "id": "45-26",
-            "date": "28/06/2026",
-            "file": "Avis1554629065.pdf",
-            "title": "Avis 45-26 Portant modulation des écarts maximaux"
         }
     ]
 }

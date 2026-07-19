@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --global user.name "SGBV Scraper Automator"
         git config --global user.email "actions@github.com"
-        git add market_data.json
+        git add market_data.json netlify_deploy/market_data.json
         # Commit seulement s'il y a des modifications de cours
         git diff-index --quiet HEAD || git commit -m "séance: actualisation automatique de la cote officielle [skip ci]"
         git push
