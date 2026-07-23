@@ -1,11 +1,11 @@
 {
     "session": {
-        "date": "Mardi 21  Juillet 2026",
+        "date": "Jeudi 23  Juillet 2026",
         "index_name": "Dzair Index",
-        "index_value": 3874.438,
-        "index_change": "0,67%",
-        "total_volume_equities": 27087,
-        "total_value_equities": 30801572.0,
+        "index_value": 3929.108,
+        "index_change": "1,41%",
+        "total_volume_equities": 138846,
+        "total_value_equities": 48167730.0,
         "total_volume_bonds": 150,
         "total_value_bonds": 138159000.0,
         "market_cap": 22000000000.0
@@ -19,9 +19,9 @@
             "ipoYear": 2024,
             "ipoPrice": 2300,
             "currentPrice": 2290.0,
-            "change": "-0,43 %",
-            "open": 2300.0,
-            "close": 2290.0,
+            "change": "0,00 %",
+            "open": 2115.0,
+            "close": null,
             "volume": 120,
             "value": 276000,
             "description": "Le Crédit Populaire d'Algérie (CPA) est l'une des plus importantes institutions bancaires publiques en Algérie. Son introduction en bourse en 2024 a constitué la plus grande opération historique de la place d'Alger, ouvrant avec succès 30% de son capital au public.",
@@ -57,9 +57,9 @@
             "ipoYear": 2016,
             "ipoPrice": 1225,
             "currentPrice": 2512.0,
-            "change": "0,04 %",
-            "open": 2511.0,
-            "close": 2512.0,
+            "change": "0,00 %",
+            "open": 2512.0,
+            "close": null,
             "volume": 450,
             "value": 1129500,
             "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
@@ -94,10 +94,10 @@
             "sectorKey": "Bancaire",
             "ipoYear": 2024,
             "ipoPrice": 1400,
-            "currentPrice": 1450.0,
-            "change": "+2,84 %",
-            "open": 1410.0,
-            "close": 1450.0,
+            "currentPrice": 1400.0,
+            "change": "+4,24 %",
+            "open": 1343.0,
+            "close": 1400.0,
             "volume": 12000,
             "value": 16860000,
             "description": "La Banque du Développement Local (BDL) est une banque publique majeure introduite à la bourse d'Alger en 2024. Elle se concentre sur le financement du tissu industriel local, de l'artisanat, des PME ainsi que des services bancaires de proximité.",
@@ -4034,6 +4034,10 @@
         [
             1784592000000,
             3874.438
+        ],
+        [
+            1784764800000,
+            3929.108
         ]
     ],
     "orders": [
@@ -4041,8 +4045,8 @@
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
             "price": 345.0,
-            "volume": 138594,
-            "side": "Achat"
+            "volume": 11406,
+            "side": "Vente"
         },
         {
             "ticker": "AOM",
@@ -4054,50 +4058,29 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 815.0,
-            "volume": 100,
+            "price": 800.0,
+            "volume": 10,
             "side": "Achat"
         },
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 800.0,
-            "volume": 10,
+            "price": 815.0,
+            "volume": 100,
             "side": "Achat"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 66,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1390.0,
             "volume": 100,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 3676,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1450.0,
-            "volume": 7539,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1400.0,
-            "volume": 3140,
+            "volume": 150,
             "side": "Achat"
         },
         {
@@ -4124,57 +4107,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2325.0,
-            "volume": 1406,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2299.0,
-            "volume": 27636,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2250.0,
-            "volume": 300,
-            "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2320.0,
-            "volume": 218,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2295.0,
-            "volume": 3000,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2350.0,
-            "volume": 150,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2300.0,
-            "volume": 116150,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2290.0,
-            "volume": 660,
+            "price": 2100.0,
+            "volume": 1000,
             "side": "Vente"
         },
         {
@@ -4194,16 +4128,23 @@
         {
             "ticker": "SAI",
             "name": "SAIDAL",
-            "price": 462.0,
-            "volume": 670,
+            "price": 445.0,
+            "volume": 3000,
             "side": "Achat"
         },
         {
             "ticker": "SAI",
             "name": "SAIDAL",
-            "price": 445.0,
-            "volume": 3005,
+            "price": 462.0,
+            "volume": 670,
             "side": "Achat"
+        },
+        {
+            "ticker": "TS30",
+            "name": "TOSYALI ALGERIE",
+            "price": 100.0,
+            "volume": 500,
+            "side": "Vente"
         }
     ],
     "bulletins": [
