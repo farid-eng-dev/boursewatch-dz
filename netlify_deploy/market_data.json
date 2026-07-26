@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Jeudi 23  Juillet 2026",
+        "date": "Dimanche 26  Juillet 2026",
         "index_name": "Dzair Index",
         "index_value": 3929.108,
-        "index_change": "1,41%",
-        "total_volume_equities": 138846,
-        "total_value_equities": 48167730.0,
-        "total_volume_bonds": 150,
-        "total_value_bonds": 138159000.0,
+        "index_change": "0,00%",
+        "total_volume_equities": 20295,
+        "total_value_equities": 27885500.0,
+        "total_volume_bonds": 2000,
+        "total_value_bonds": 2005230000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -95,8 +95,8 @@
             "ipoYear": 2024,
             "ipoPrice": 1400,
             "currentPrice": 1400.0,
-            "change": "+4,24 %",
-            "open": 1343.0,
+            "change": "0,00 %",
+            "open": 1400.0,
             "close": 1400.0,
             "volume": 12000,
             "value": 16860000,
@@ -959,10 +959,6 @@
         }
     ],
     "index_history": [
-        [
-            1627171200000,
-            1725.737
-        ],
         [
             1627344000000,
             1725.737
@@ -4038,6 +4034,10 @@
         [
             1784764800000,
             3929.108
+        ],
+        [
+            1785024000000,
+            3929.108
         ]
     ],
     "orders": [
@@ -4045,7 +4045,7 @@
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
             "price": 345.0,
-            "volume": 11406,
+            "volume": 10906,
             "side": "Vente"
         },
         {
@@ -4058,30 +4058,51 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 800.0,
-            "volume": 10,
-            "side": "Achat"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
             "price": 815.0,
             "volume": 100,
             "side": "Achat"
         },
         {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 810.0,
+            "volume": 145,
+            "side": "Achat"
+        },
+        {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 100,
+            "price": 1420.0,
+            "volume": 13111,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 150,
-            "side": "Achat"
+            "price": 1450.0,
+            "volume": 12474,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1415.0,
+            "volume": 35,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1449.0,
+            "volume": 1425,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 10045,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4107,15 +4128,15 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2100.0,
-            "volume": 1000,
+            "price": 2115.0,
+            "volume": 435,
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 360.0,
-            "volume": 3071,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2100.0,
+            "volume": 1000,
             "side": "Vente"
         },
         {
@@ -4124,6 +4145,27 @@
             "price": 350.0,
             "volume": 500,
             "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 360.0,
+            "volume": 3271,
+            "side": "Vente"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 447.0,
+            "volume": 10,
+            "side": "Achat"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 465.0,
+            "volume": 4511,
+            "side": "Achat"
         },
         {
             "ticker": "SAI",
