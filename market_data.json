@@ -6,8 +6,8 @@
         "index_change": "0,00%",
         "total_volume_equities": 20295,
         "total_value_equities": 27885500.0,
-        "total_volume_bonds": 2000,
-        "total_value_bonds": 2005230000.0,
+        "total_volume_bonds": 4573,
+        "total_value_bonds": 4341017620.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -959,10 +959,6 @@
         }
     ],
     "index_history": [
-        [
-            1627344000000,
-            1725.737
-        ],
         [
             1627516800000,
             1725.737
@@ -4072,6 +4068,13 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 10045,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1420.0,
             "volume": 13111,
             "side": "Vente"
@@ -4095,13 +4098,6 @@
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1449.0,
             "volume": 1425,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 10045,
             "side": "Vente"
         },
         {
@@ -4142,16 +4138,23 @@
         {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
-            "price": 350.0,
-            "volume": 500,
+            "price": 360.0,
+            "volume": 3271,
             "side": "Vente"
         },
         {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
-            "price": 360.0,
-            "volume": 3271,
+            "price": 350.0,
+            "volume": 500,
             "side": "Vente"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 462.0,
+            "volume": 670,
+            "side": "Achat"
         },
         {
             "ticker": "SAI",
@@ -4175,13 +4178,6 @@
             "side": "Achat"
         },
         {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 462.0,
-            "volume": 670,
-            "side": "Achat"
-        },
-        {
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "price": 100.0,
@@ -4194,25 +4190,25 @@
             "id": "57-26",
             "date": "21/07/2026",
             "file": "Avis1481255392.pdf",
-            "title": "Avis 57-26 Portant modulation des écarts maximaux"
+            "title": "Avis N°57-26 Portant modulation des écarts maximaux"
         },
         {
             "id": "56-26",
             "date": "21/07/2026",
-            "file": "Avis1738339876.pdf",
+            "file": "Avis428472919.pdf",
             "title": "AVIS N°56-26 Portant calendrier des dividendes du titre  banque BDL"
         },
         {
             "id": "55-26",
             "date": "21/07/2026",
-            "file": "Avis27624548.pdf",
+            "file": "Avis1464877442.pdf",
             "title": "AVIS N°55-26 Portant calendrier des dividendes du titre  banque CPA"
         },
         {
             "id": "54-26",
             "date": "19/07/2026",
             "file": "Avis1622880871.pdf",
-            "title": "Avis 54-26 Portant modulation des écarts maximaux"
+            "title": "Avis N°54-26 Portant modulation des écarts maximaux"
         },
         {
             "id": "53-26",
@@ -4230,19 +4226,19 @@
             "id": "51-26",
             "date": "12/07/2026",
             "file": "Avis778360015.pdf",
-            "title": "Avis 51-26 Portant publication de décisions SGBV"
+            "title": "Avis N°51-26 Portant publication de décisions SGBV"
         },
         {
             "id": "50-26",
             "date": "12/07/2026",
             "file": "Avis642067283.pdf",
-            "title": "Avis 50-26 PORTANT RESULTATS DE L’OPF Action AYRADE ET DEBUT DES NEGOCIATIONS"
+            "title": "Avis N°50-26 PORTANT RESULTATS DE L’OPF Action AYRADE ET DEBUT DES NEGOCIATIONS"
         },
         {
             "id": "48-26",
             "date": "09/07/2026",
             "file": "Avis1576780945.pdf",
-            "title": "Avis 48-26 PORTANT RESULTATS DE L’OPF Action CRAPC EXPERTISE ET DEBUT DES NEGOCIATIONS"
+            "title": "Avis N°48-26 PORTANT RESULTATS DE L’OPF Action CRAPC EXPERTISE ET DEBUT DES NEGOCIATIONS"
         }
     ]
 }
