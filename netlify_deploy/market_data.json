@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Dimanche 26  Juillet 2026",
+        "date": "Mardi 28  Juillet 2026",
         "index_name": "Dzair Index",
-        "index_value": 3929.108,
-        "index_change": "0,00%",
-        "total_volume_equities": 20295,
-        "total_value_equities": 27885500.0,
-        "total_volume_bonds": 4573,
-        "total_value_bonds": 4341017620.0,
+        "index_value": 3922.733,
+        "index_change": "-0,16%",
+        "total_volume_equities": 22994,
+        "total_value_equities": 21844274.0,
+        "total_volume_bonds": 7300,
+        "total_value_bonds": 6988205000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -18,10 +18,10 @@
             "sectorKey": "Bancaire",
             "ipoYear": 2024,
             "ipoPrice": 2300,
-            "currentPrice": 2290.0,
-            "change": "0,00 %",
+            "currentPrice": 2109.0,
+            "change": "-0,28 %",
             "open": 2115.0,
-            "close": null,
+            "close": 2109.0,
             "volume": 120,
             "value": 276000,
             "description": "Le Crédit Populaire d'Algérie (CPA) est l'une des plus importantes institutions bancaires publiques en Algérie. Son introduction en bourse en 2024 a constitué la plus grande opération historique de la place d'Alger, ouvrant avec succès 30% de son capital au public.",
@@ -4034,6 +4034,10 @@
         [
             1785024000000,
             3929.108
+        ],
+        [
+            1785196800000,
+            3922.733
         ]
     ],
     "orders": [
@@ -4041,56 +4045,70 @@
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
             "price": 345.0,
-            "volume": 10906,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 290.0,
-            "volume": 26388,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 815.0,
-            "volume": 100,
+            "volume": 1522,
             "side": "Achat"
         },
         {
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 810.0,
-            "volume": 145,
+            "volume": 10,
+            "side": "Achat"
+        },
+        {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 816.0,
+            "volume": 40,
+            "side": "Achat"
+        },
+        {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 815.0,
+            "volume": 600,
             "side": "Achat"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 10045,
+            "price": 1400.0,
+            "volume": 20899,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 13111,
+            "price": 1440.0,
+            "volume": 135,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 10145,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1450.0,
-            "volume": 12474,
+            "volume": 18104,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1415.0,
-            "volume": 35,
+            "price": 1420.0,
+            "volume": 15206,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 6712,
             "side": "Vente"
         },
         {
@@ -4101,11 +4119,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2510.0,
-            "volume": 28,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1415.0,
+            "volume": 35,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4124,15 +4142,43 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2115.0,
-            "volume": 435,
+            "price": 2050.0,
+            "volume": 500,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2200.0,
+            "volume": 100,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2110.0,
+            "volume": 350,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2185.0,
+            "volume": 200,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2100.0,
-            "volume": 1000,
+            "volume": 607,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2115.0,
+            "volume": 1386,
             "side": "Vente"
         },
         {
@@ -4152,29 +4198,15 @@
         {
             "ticker": "SAI",
             "name": "SAIDAL",
+            "price": 465.0,
+            "volume": 4500,
+            "side": "Achat"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
             "price": 462.0,
             "volume": 670,
-            "side": "Achat"
-        },
-        {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 447.0,
-            "volume": 10,
-            "side": "Achat"
-        },
-        {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 465.0,
-            "volume": 4511,
-            "side": "Achat"
-        },
-        {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 445.0,
-            "volume": 3000,
             "side": "Achat"
         },
         {
@@ -4195,14 +4227,14 @@
         {
             "id": "56-26",
             "date": "21/07/2026",
-            "file": "Avis428472919.pdf",
-            "title": "AVIS N°56-26 Portant calendrier des dividendes du titre  banque BDL"
+            "file": "Avis373350781.pdf",
+            "title": "AVIS N°56-26 Portant calendrier des dividendes du titre banque BDL"
         },
         {
             "id": "55-26",
             "date": "21/07/2026",
-            "file": "Avis1464877442.pdf",
-            "title": "AVIS N°55-26 Portant calendrier des dividendes du titre  banque CPA"
+            "file": "Avis1016959165.pdf",
+            "title": "AVIS N°55-26 Portant calendrier des dividendes du titre banque CPA"
         },
         {
             "id": "54-26",
