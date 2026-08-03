@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Mardi 28  Juillet 2026",
+        "date": "Dimanche 02  Août 2026",
         "index_name": "Dzair Index",
-        "index_value": 3922.733,
-        "index_change": "-0,16%",
-        "total_volume_equities": 22994,
-        "total_value_equities": 21844274.0,
-        "total_volume_bonds": 3000,
-        "total_value_bonds": 2939730000.0,
+        "index_value": 3922.743,
+        "index_change": "0,24%",
+        "total_volume_equities": 10210,
+        "total_value_equities": 14618895.0,
+        "total_volume_bonds": 930,
+        "total_value_bonds": 862059100.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -19,8 +19,8 @@
             "ipoYear": 2024,
             "ipoPrice": 2300,
             "currentPrice": 2109.0,
-            "change": "-0,28 %",
-            "open": 2115.0,
+            "change": "0,43 %",
+            "open": 2100.0,
             "close": 2109.0,
             "volume": 120,
             "value": 276000,
@@ -134,8 +134,8 @@
             "ipoPrice": 830,
             "currentPrice": 345.0,
             "change": "0,00 %",
-            "open": 345.0,
-            "close": 345.0,
+            "open": 319.0,
+            "close": null,
             "volume": 80,
             "value": 27600,
             "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
@@ -172,7 +172,7 @@
             "ipoPrice": 800,
             "currentPrice": 446,
             "change": "0,00 %",
-            "open": 446.0,
+            "open": 411.0,
             "close": null,
             "volume": 500,
             "value": 223000,
@@ -246,10 +246,10 @@
             "sectorKey": "Technologie",
             "ipoYear": 2026,
             "ipoPrice": 800,
-            "currentPrice": 810,
-            "change": "0,00 %",
+            "currentPrice": 815.0,
+            "change": "0,62 %",
             "open": 810.0,
-            "close": null,
+            "close": 815.0,
             "volume": 20,
             "value": 16200,
             "description": "Ayrade est une société technologique dynamique introduite en 2026. Actrice majeure dans les solutions logicielles, d'hébergement web cloud et de transformation digitale en Algérie, elle vise à dynamiser le compartiment technologique de la bourse.",
@@ -959,14 +959,6 @@
         }
     ],
     "index_history": [
-        [
-            1627776000000,
-            1726.152
-        ],
-        [
-            1627948800000,
-            1726.152
-        ],
         [
             1628121600000,
             1726.152
@@ -4034,28 +4026,29 @@
         [
             1785196800000,
             3922.733
+        ],
+        [
+            1785369600000,
+            3913.172
+        ],
+        [
+            1785628800000,
+            3922.743
         ]
     ],
     "orders": [
         {
-            "ticker": "ALL",
-            "name": "ALLIANCE ASSURANCES",
-            "price": 345.0,
-            "volume": 1522,
-            "side": "Achat"
-        },
-        {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 816.0,
-            "volume": 40,
+            "price": 800.0,
+            "volume": 316,
             "side": "Achat"
         },
         {
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 815.0,
-            "volume": 600,
+            "volume": 307,
             "side": "Achat"
         },
         {
@@ -4068,22 +4061,43 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 43667,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1470.0,
+            "volume": 4643,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1440.0,
+            "volume": 335,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 10145,
+            "volume": 12005,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1450.0,
-            "volume": 18104,
+            "volume": 18204,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1420.0,
-            "volume": 15206,
+            "volume": 16506,
             "side": "Vente"
         },
         {
@@ -4108,20 +4122,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 20899,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1440.0,
-            "volume": 135,
-            "side": "Vente"
-        },
-        {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2512.0,
@@ -4138,13 +4138,6 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2110.0,
-            "volume": 350,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2185.0,
             "volume": 200,
             "side": "Vente"
@@ -4152,22 +4145,22 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2100.0,
-            "volume": 607,
+            "price": 2109.0,
+            "volume": 3417,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2115.0,
-            "volume": 1386,
+            "volume": 2386,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2050.0,
-            "volume": 500,
+            "volume": 2500,
             "side": "Achat"
         },
         {
@@ -4178,10 +4171,10 @@
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 360.0,
-            "volume": 3271,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2110.0,
+            "volume": 350,
             "side": "Vente"
         },
         {
@@ -4192,18 +4185,18 @@
             "side": "Vente"
         },
         {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 465.0,
-            "volume": 4500,
-            "side": "Achat"
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 360.0,
+            "volume": 3271,
+            "side": "Vente"
         },
         {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 462.0,
-            "volume": 670,
-            "side": "Achat"
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 780.0,
+            "volume": 100,
+            "side": "Vente"
         },
         {
             "ticker": "TS30",
@@ -4214,6 +4207,30 @@
         }
     ],
     "bulletins": [
+        {
+            "id": "58-26",
+            "date": "30/07/2026",
+            "file": "Avis388232303.pdf",
+            "title": "AVIS N°58-26 Portant calendrier des dividendes du titre Alliance Assurances"
+        },
+        {
+            "id": "59-26",
+            "date": "30/07/2026",
+            "file": "Avis497039886.pdf",
+            "title": "AVIS N°59-26 Portant calendrier des dividendes du titre Saidal"
+        },
+        {
+            "id": "60-26",
+            "date": "30/07/2026",
+            "file": "Avis2095631759.pdf",
+            "title": "AVIS N°60-26 Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "61-26",
+            "date": "30/07/2026",
+            "file": "Avis1284745224.pdf",
+            "title": "AVIS N°61-26 PORTANT TRANSFER DU TITRE AYRADE VERS LE COMPARTIMENT PRINCIPAL"
+        },
         {
             "id": "57-26",
             "date": "21/07/2026",
@@ -4243,30 +4260,6 @@
             "date": "15/07/2026",
             "file": "Avis890255509.pdf",
             "title": "AVIS N°53-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "52-26",
-            "date": "14/07/2026",
-            "file": "Avis997415515.pdf",
-            "title": "AVIS N°52-26 Portant Modification exceptionnelle du calendrier des séances de négociation"
-        },
-        {
-            "id": "51-26",
-            "date": "12/07/2026",
-            "file": "Avis778360015.pdf",
-            "title": "Avis N°51-26 Portant publication de décisions SGBV"
-        },
-        {
-            "id": "50-26",
-            "date": "12/07/2026",
-            "file": "Avis642067283.pdf",
-            "title": "Avis N°50-26 PORTANT RESULTATS DE L’OPF Action AYRADE ET DEBUT DES NEGOCIATIONS"
-        },
-        {
-            "id": "48-26",
-            "date": "09/07/2026",
-            "file": "Avis1576780945.pdf",
-            "title": "Avis N°48-26 PORTANT RESULTATS DE L’OPF Action CRAPC EXPERTISE ET DEBUT DES NEGOCIATIONS"
         }
     ]
 }
