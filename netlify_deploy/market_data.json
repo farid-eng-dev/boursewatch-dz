@@ -6,8 +6,8 @@
         "index_change": "0,05%",
         "total_volume_equities": 32556,
         "total_value_equities": 58517300.0,
-        "total_volume_bonds": 4500,
-        "total_value_bonds": 4363435000.0,
+        "total_volume_bonds": 3655,
+        "total_value_bonds": 3436683700.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -4079,6 +4079,13 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1449.0,
+            "volume": 1425,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1415.0,
             "volume": 35,
             "side": "Vente"
@@ -4086,15 +4093,15 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1460.0,
-            "volume": 2000,
+            "price": 1400.0,
+            "volume": 167376,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 167376,
+            "price": 1460.0,
+            "volume": 2000,
             "side": "Vente"
         },
         {
@@ -4133,13 +4140,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1449.0,
-            "volume": 1425,
-            "side": "Vente"
-        },
-        {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2511.0,
@@ -4159,6 +4159,13 @@
             "price": 2512.0,
             "volume": 1271,
             "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2109.0,
+            "volume": 149663,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4224,13 +4231,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2109.0,
-            "volume": 149663,
-            "side": "Vente"
-        },
-        {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
@@ -4240,15 +4240,15 @@
         {
             "ticker": "MST",
             "name": "Moustachir",
-            "price": 780.0,
-            "volume": 100,
+            "price": 800.0,
+            "volume": 3000,
             "side": "Vente"
         },
         {
             "ticker": "MST",
             "name": "Moustachir",
-            "price": 800.0,
-            "volume": 3000,
+            "price": 780.0,
+            "volume": 100,
             "side": "Vente"
         },
         {
