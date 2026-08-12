@@ -960,10 +960,6 @@
     ],
     "index_history": [
         [
-            1628726400000,
-            1732.742
-        ],
-        [
             1628985600000,
             1732.742
         ],
@@ -4044,6 +4040,13 @@
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
+            "price": 345.0,
+            "volume": 36,
+            "side": "Vente"
+        },
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
             "price": 320.0,
             "volume": 500,
             "side": "Achat"
@@ -4054,13 +4057,6 @@
             "price": 319.0,
             "volume": 20130,
             "side": "Achat"
-        },
-        {
-            "ticker": "ALL",
-            "name": "ALLIANCE ASSURANCES",
-            "price": 345.0,
-            "volume": 36,
-            "side": "Vente"
         },
         {
             "ticker": "AOM",
@@ -4088,6 +4084,27 @@
             "name": "AYRADE",
             "price": 815.0,
             "volume": 1193,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1415.0,
+            "volume": 35,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 186887,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1460.0,
+            "volume": 2000,
             "side": "Vente"
         },
         {
@@ -4133,25 +4150,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1415.0,
-            "volume": 35,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 186887,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1460.0,
-            "volume": 2000,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2513.0,
+            "volume": 98,
+            "side": "Achat"
         },
         {
             "ticker": "BIO",
@@ -4182,11 +4185,25 @@
             "side": "Achat"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2513.0,
-            "volume": 98,
-            "side": "Achat"
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2049.0,
+            "volume": 1664,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2114.0,
+            "volume": 50,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2108.0,
+            "volume": 1370,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4259,27 +4276,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2049.0,
-            "volume": 1664,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2114.0,
-            "volume": 50,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2108.0,
-            "volume": 1370,
-            "side": "Vente"
-        },
-        {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
@@ -4303,15 +4299,15 @@
         {
             "ticker": "SAI",
             "name": "SAIDAL",
-            "price": 411.0,
-            "volume": 2640,
+            "price": 412.0,
+            "volume": 30,
             "side": "Achat"
         },
         {
             "ticker": "SAI",
             "name": "SAIDAL",
-            "price": 412.0,
-            "volume": 30,
+            "price": 411.0,
+            "volume": 2640,
             "side": "Achat"
         },
         {
