@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Mardi 11  Août 2026",
+        "date": "Jeudi 13  Août 2026",
         "index_name": "Dzair Index",
-        "index_value": 3859.294,
-        "index_change": "-0,03%",
-        "total_volume_equities": 20534,
-        "total_value_equities": 29743166.0,
-        "total_volume_bonds": 3655,
-        "total_value_bonds": 3436683700.0,
+        "index_value": 3913.226,
+        "index_change": "1,40%",
+        "total_volume_equities": 45171,
+        "total_value_equities": 66420900.0,
+        "total_volume_bonds": 1000,
+        "total_value_bonds": 975460000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -18,10 +18,10 @@
             "sectorKey": "Bancaire",
             "ipoYear": 2024,
             "ipoPrice": 2300,
-            "currentPrice": 2049.0,
-            "change": "-0,05 %",
-            "open": 2050.0,
-            "close": 2049.0,
+            "currentPrice": 2100.0,
+            "change": "+2,49 %",
+            "open": 2049.0,
+            "close": 2100.0,
             "volume": 120,
             "value": 276000,
             "description": "Le Crédit Populaire d'Algérie (CPA) est l'une des plus importantes institutions bancaires publiques en Algérie. Son introduction en bourse en 2024 a constitué la plus grande opération historique de la place d'Alger, ouvrant avec succès 30% de son capital au public.",
@@ -4034,16 +4034,13 @@
         [
             1786406400000,
             3859.294
+        ],
+        [
+            1786579200000,
+            3913.226
         ]
     ],
     "orders": [
-        {
-            "ticker": "ALL",
-            "name": "ALLIANCE ASSURANCES",
-            "price": 345.0,
-            "volume": 36,
-            "side": "Vente"
-        },
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
@@ -4054,22 +4051,36 @@
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
+            "price": 345.0,
+            "volume": 36,
+            "side": "Vente"
+        },
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
             "price": 319.0,
-            "volume": 20130,
+            "volume": 17130,
             "side": "Achat"
         },
         {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 290.0,
-            "volume": 500,
-            "side": "Vente"
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 330.0,
+            "volume": 3000,
+            "side": "Achat"
         },
         {
             "ticker": "AOM",
             "name": "AOM invest",
             "price": 285.0,
             "volume": 1273,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AOM",
+            "name": "AOM invest",
+            "price": 290.0,
+            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4089,15 +4100,8 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1415.0,
-            "volume": 35,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 186887,
+            "price": 1405.0,
+            "volume": 6982,
             "side": "Vente"
         },
         {
@@ -4117,8 +4121,15 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 10900,
+            "price": 1415.0,
+            "volume": 35,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 201056,
             "side": "Vente"
         },
         {
@@ -4131,15 +4142,15 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 17966,
+            "price": 1430.0,
+            "volume": 4643,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 6982,
+            "price": 1410.0,
+            "volume": 10800,
             "side": "Vente"
         },
         {
@@ -4150,11 +4161,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2513.0,
-            "volume": 98,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1420.0,
+            "volume": 18666,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4167,7 +4178,7 @@
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2512.0,
-            "volume": 1481,
+            "volume": 700,
             "side": "Achat"
         },
         {
@@ -4185,45 +4196,10 @@
             "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2049.0,
-            "volume": 1664,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2114.0,
-            "volume": 50,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2108.0,
-            "volume": 1370,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2059.0,
-            "volume": 100,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2120.0,
-            "volume": 350,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2005.0,
-            "volume": 300,
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2513.0,
+            "volume": 98,
             "side": "Achat"
         },
         {
@@ -4243,15 +4219,36 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2050.0,
-            "volume": 1586,
+            "price": 2115.0,
+            "volume": 17366,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2115.0,
-            "volume": 17356,
+            "price": 2005.0,
+            "volume": 300,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2109.0,
+            "volume": 156668,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2100.0,
+            "volume": 32982,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2114.0,
+            "volume": 50,
             "side": "Vente"
         },
         {
@@ -4264,29 +4261,29 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2109.0,
-            "volume": 150963,
+            "price": 2108.0,
+            "volume": 1380,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2100.0,
-            "volume": 25526,
+            "price": 2120.0,
+            "volume": 350,
             "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2050.0,
+            "volume": 13379,
+            "side": "Achat"
         },
         {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
-            "volume": 1023,
-            "side": "Vente"
-        },
-        {
-            "ticker": "MST",
-            "name": "Moustachir",
-            "price": 780.0,
-            "volume": 150,
+            "volume": 200,
             "side": "Vente"
         },
         {
@@ -4294,6 +4291,13 @@
             "name": "Moustachir",
             "price": 800.0,
             "volume": 3000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 780.0,
+            "volume": 150,
             "side": "Vente"
         },
         {
@@ -4307,7 +4311,7 @@
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 411.0,
-            "volume": 2640,
+            "volume": 3350,
             "side": "Achat"
         },
         {
