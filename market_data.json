@@ -6,8 +6,8 @@
         "index_change": "0,00%",
         "total_volume_equities": 32999,
         "total_value_equities": 45030870.0,
-        "total_volume_bonds": 2400,
-        "total_value_bonds": 2197100000.0,
+        "total_volume_bonds": 2000,
+        "total_value_bonds": 1879200000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -4319,7 +4319,7 @@
         {
             "id": "64-26",
             "date": "18/08/2026",
-            "file": "Avis1403004648.pdf",
+            "file": "Avis1489720060.pdf",
             "title": "AVIS N°64-26 portant contrat de rachat du titre CPA"
         },
         {
