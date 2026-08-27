@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Mercredi 26  Août 2026",
+        "date": "Jeudi 27  Août 2026",
         "index_name": "Dzair Index",
         "index_value": 3862.81,
-        "index_change": "0,02%",
-        "total_volume_equities": 19055,
-        "total_value_equities": 27044080.0,
-        "total_volume_bonds": 3000,
-        "total_value_bonds": 2735910000.0,
+        "index_change": "0,00%",
+        "total_volume_equities": 80345,
+        "total_value_equities": 205432361.0,
+        "total_volume_bonds": 9500,
+        "total_value_bonds": 9277675000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -59,7 +59,7 @@
             "currentPrice": 2514.0,
             "change": "0,00 %",
             "open": 2514.0,
-            "close": 2514.0,
+            "close": null,
             "volume": 450,
             "value": 1129500,
             "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
@@ -135,7 +135,7 @@
             "currentPrice": 345.0,
             "change": "0,00 %",
             "open": 345.0,
-            "close": 345.0,
+            "close": null,
             "volume": 80,
             "value": 27600,
             "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
@@ -171,9 +171,9 @@
             "ipoYear": 1999,
             "ipoPrice": 800,
             "currentPrice": 431.0,
-            "change": "+4,87 %",
-            "open": 411.0,
-            "close": 431.0,
+            "change": "0,00 %",
+            "open": 431.0,
+            "close": null,
             "volume": 500,
             "value": 223000,
             "description": "Saidal est le groupe pharmaceutique étatique historique et pionnier de la bourse depuis 1999. Saidal joue un rôle stratégique national dans la production de médicaments génériques et le développement de la souveraineté sanitaire algérienne.",
@@ -322,10 +322,10 @@
             "sectorKey": "Services",
             "ipoYear": 2024,
             "ipoPrice": 750,
-            "currentPrice": 780,
-            "change": "0,00 %",
+            "currentPrice": 779.0,
+            "change": "-0,13 %",
             "open": 780.0,
-            "close": null,
+            "close": 779.0,
             "volume": 0,
             "value": 0,
             "description": "Moustachir est un intermédiaire et cabinet conseil dédié aux projets de restructuration, d'ingénierie financière et d'accompagnement des petites et moyennes entreprises pour l'accès aux financements et marchés de capitaux.",
@@ -413,7 +413,7 @@
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "open": 99.0,
-            "close": null,
+            "close": 99.9,
             "change": "0,00 %",
             "coupon": "OBLIG 5.75%"
         },
@@ -4038,6 +4038,10 @@
         [
             1787702400000,
             3862.81
+        ],
+        [
+            1787788800000,
+            3862.81
         ]
     ],
     "orders": [
@@ -4065,13 +4069,6 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 855.0,
-            "volume": 599,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
             "price": 815.0,
             "volume": 1305,
             "side": "Achat"
@@ -4084,17 +4081,10 @@
             "side": "Achat"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 11402,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1450.0,
-            "volume": 815,
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 855.0,
+            "volume": 599,
             "side": "Vente"
         },
         {
@@ -4115,28 +4105,28 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1440.0,
-            "volume": 14485,
+            "volume": 14285,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 4099,
+            "volume": 3099,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1400.0,
-            "volume": 186247,
+            "volume": 212236,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1470.0,
-            "volume": 145,
+            "volume": 165,
             "side": "Vente"
         },
         {
@@ -4147,11 +4137,18 @@
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2512.0,
-            "volume": 830,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 12402,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1450.0,
+            "volume": 815,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4168,25 +4165,18 @@
             "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2049.0,
-            "volume": 1090,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2512.0,
+            "volume": 830,
+            "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2150.0,
-            "volume": 50,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2108.0,
-            "volume": 1520,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2515.0,
+            "volume": 30,
+            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4205,29 +4195,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2115.0,
-            "volume": 1070,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2107.0,
-            "volume": 43,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2050.0,
-            "volume": 33005,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2109.0,
-            "volume": 161984,
+            "volume": 149745,
             "side": "Vente"
         },
         {
@@ -4235,6 +4204,55 @@
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2100.0,
             "volume": 27752,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2050.0,
+            "volume": 34055,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2150.0,
+            "volume": 50,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2108.0,
+            "volume": 1510,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2087.0,
+            "volume": 200,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2049.0,
+            "volume": 1222,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2115.0,
+            "volume": 1000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2107.0,
+            "volume": 43,
             "side": "Vente"
         },
         {
@@ -4259,10 +4277,17 @@
             "side": "Vente"
         },
         {
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 730.0,
+            "volume": 1800,
+            "side": "Vente"
+        },
+        {
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 415.0,
-            "volume": 20010,
+            "volume": 20000,
             "side": "Achat"
         },
         {
@@ -4276,7 +4301,7 @@
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 431.0,
-            "volume": 515,
+            "volume": 815,
             "side": "Achat"
         },
         {
@@ -4290,22 +4315,34 @@
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "price": 99.9,
-            "volume": 200,
+            "volume": 75,
             "side": "Vente"
         }
     ],
     "bulletins": [
         {
+            "id": "68-26",
+            "date": "27/08/2026",
+            "file": "Avis803470770.pdf",
+            "title": "AVIS N°68-26 Portant modulation des écarts maximaux"
+        },
+        {
             "id": "67-26",
             "date": "26/08/2026",
             "file": "Avis1428151552.pdf",
-            "title": "Avis 67-26Portant modulation des écarts maximaux"
+            "title": "AVIS N°67-26Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "66-26",
+            "date": "23/08/2026",
+            "file": "Avis1898695811.pdf",
+            "title": "AVIS N°66-26 Portant aménagement du calendrier des séances de négociation"
         },
         {
             "id": "65-26",
             "date": "20/08/2026",
             "file": "Avis698797622.pdf",
-            "title": "Avis 65-26Portant modulation des écarts maximaux"
+            "title": "AVIS N°65-26Portant modulation des écarts maximaux"
         },
         {
             "id": "64-26",
@@ -4317,13 +4354,13 @@
             "id": "63-26",
             "date": "16/08/2026",
             "file": "Avis1232326434.pdf",
-            "title": "Avis 63-26Portant modulation des écarts maximaux"
+            "title": "AVIS N°63-26Portant modulation des écarts maximaux"
         },
         {
             "id": "62-26",
             "date": "09/08/2026",
             "file": "Avis815126497.pdf",
-            "title": "Avis 62-26Portant modulation des écarts maximaux"
+            "title": "AVIS N°62-26Portant modulation des écarts maximaux"
         },
         {
             "id": "58-26",
@@ -4336,18 +4373,6 @@
             "date": "30/07/2026",
             "file": "Avis497039886.pdf",
             "title": "AVIS N°59-26 Portant calendrier des dividendes du titre Saidal"
-        },
-        {
-            "id": "60-26",
-            "date": "30/07/2026",
-            "file": "Avis2095631759.pdf",
-            "title": "AVIS N°60-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "61-26",
-            "date": "30/07/2026",
-            "file": "Avis1284745224.pdf",
-            "title": "AVIS N°61-26 PORTANT TRANSFER DU TITRE AYRADE VERS LE COMPARTIMENT PRINCIPAL"
         }
     ]
 }
