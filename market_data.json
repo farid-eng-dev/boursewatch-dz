@@ -1,11 +1,11 @@
 {
     "session": {
-        "date": "Jeudi 27  Août 2026",
+        "date": "Dimanche 30  Août 2026",
         "index_name": "Dzair Index",
         "index_value": 3862.81,
         "index_change": "0,00%",
-        "total_volume_equities": 80345,
-        "total_value_equities": 205432361.0,
+        "total_volume_equities": 14091,
+        "total_value_equities": 21943086.0,
         "total_volume_bonds": 9500,
         "total_value_bonds": 9277675000.0,
         "market_cap": 22000000000.0
@@ -323,9 +323,9 @@
             "ipoYear": 2024,
             "ipoPrice": 750,
             "currentPrice": 779.0,
-            "change": "-0,13 %",
-            "open": 780.0,
-            "close": 779.0,
+            "change": "0,00 %",
+            "open": 779.0,
+            "close": null,
             "volume": 0,
             "value": 0,
             "description": "Moustachir est un intermédiaire et cabinet conseil dédié aux projets de restructuration, d'ingénierie financière et d'accompagnement des petites et moyennes entreprises pour l'accès aux financements et marchés de capitaux.",
@@ -413,7 +413,7 @@
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "open": 99.0,
-            "close": 99.9,
+            "close": null,
             "change": "0,00 %",
             "coupon": "OBLIG 5.75%"
         },
@@ -959,10 +959,6 @@
         }
     ],
     "index_history": [
-        [
-            1630195200000,
-            1743.334
-        ],
         [
             1630368000000,
             1743.334
@@ -4042,6 +4038,10 @@
         [
             1787788800000,
             3862.81
+        ],
+        [
+            1788048000000,
+            3862.81
         ]
     ],
     "orders": [
@@ -4050,13 +4050,6 @@
             "name": "ALLIANCE ASSURANCES",
             "price": 345.0,
             "volume": 5102,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 290.0,
-            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4076,13 +4069,6 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 800.0,
-            "volume": 316,
-            "side": "Achat"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
             "price": 855.0,
             "volume": 599,
             "side": "Vente"
@@ -4091,7 +4077,7 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1420.0,
-            "volume": 4460,
+            "volume": 3460,
             "side": "Vente"
         },
         {
@@ -4112,14 +4098,14 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 3099,
+            "volume": 1020,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1400.0,
-            "volume": 212236,
+            "volume": 198525,
             "side": "Vente"
         },
         {
@@ -4140,7 +4126,7 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1405.0,
-            "volume": 12402,
+            "volume": 11152,
             "side": "Vente"
         },
         {
@@ -4153,6 +4139,20 @@
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
+            "price": 2512.0,
+            "volume": 790,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2515.0,
+            "volume": 30,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
             "price": 2511.0,
             "volume": 81,
             "side": "Achat"
@@ -4161,21 +4161,7 @@
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2514.0,
-            "volume": 1127,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2512.0,
-            "volume": 830,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2515.0,
-            "volume": 30,
+            "volume": 1257,
             "side": "Achat"
         },
         {
@@ -4196,28 +4182,21 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2109.0,
-            "volume": 149745,
+            "volume": 115839,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2100.0,
-            "volume": 27752,
+            "volume": 25612,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2050.0,
-            "volume": 34055,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2150.0,
-            "volume": 50,
+            "volume": 40692,
             "side": "Vente"
         },
         {
@@ -4238,14 +4217,14 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2049.0,
-            "volume": 1222,
+            "volume": 258,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2115.0,
-            "volume": 1000,
+            "price": 2150.0,
+            "volume": 50,
             "side": "Vente"
         },
         {
@@ -4258,22 +4237,15 @@
         {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
-            "price": 360.0,
-            "volume": 3580,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
             "price": 350.0,
             "volume": 500,
             "side": "Vente"
         },
         {
-            "ticker": "MST",
-            "name": "Moustachir",
-            "price": 780.0,
-            "volume": 50,
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 360.0,
+            "volume": 3580,
             "side": "Vente"
         },
         {
@@ -4284,11 +4256,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "SAI",
-            "name": "SAIDAL",
-            "price": 415.0,
-            "volume": 20000,
-            "side": "Achat"
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 780.0,
+            "volume": 50,
+            "side": "Vente"
         },
         {
             "ticker": "SAI",
@@ -4309,6 +4281,13 @@
             "name": "SAIDAL",
             "price": 411.0,
             "volume": 3350,
+            "side": "Achat"
+        },
+        {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 415.0,
+            "volume": 20000,
             "side": "Achat"
         },
         {
