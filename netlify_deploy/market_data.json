@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Jeudi 03  Septembre 2026",
+        "date": "Dimanche 06  Septembre 2026",
         "index_name": "Dzair Index",
         "index_value": 3862.81,
         "index_change": "0,00%",
-        "total_volume_equities": 30749,
-        "total_value_equities": 43382407.0,
-        "total_volume_bonds": 2448,
-        "total_value_bonds": 2435142910.0,
+        "total_volume_equities": 3864,
+        "total_value_equities": 6294836.0,
+        "total_volume_bonds": 4843,
+        "total_value_bonds": 4765530190.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -135,7 +135,7 @@
             "currentPrice": 345.0,
             "change": "0,00 %",
             "open": 345.0,
-            "close": 345.0,
+            "close": null,
             "volume": 80,
             "value": 27600,
             "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
@@ -249,7 +249,7 @@
             "currentPrice": 815.0,
             "change": "0,00 %",
             "open": 815.0,
-            "close": 815.0,
+            "close": null,
             "volume": 20,
             "value": 16200,
             "description": "Ayrade est une société technologique dynamique introduite en 2026. Actrice majeure dans les solutions logicielles, d'hébergement web cloud et de transformation digitale en Algérie, elle vise à dynamiser le compartiment technologique de la bourse.",
@@ -959,10 +959,6 @@
         }
     ],
     "index_history": [
-        [
-            1630800000000,
-            1743.334
-        ],
         [
             1630972800000,
             1743.334
@@ -4042,9 +4038,20 @@
         [
             1788393600000,
             3862.81
+        ],
+        [
+            1788652800000,
+            3862.81
         ]
     ],
     "orders": [
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 346.0,
+            "volume": 256,
+            "side": "Achat"
+        },
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
@@ -4060,10 +4067,10 @@
             "side": "Vente"
         },
         {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 285.0,
-            "volume": 1273,
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 855.0,
+            "volume": 599,
             "side": "Vente"
         },
         {
@@ -4071,13 +4078,6 @@
             "name": "AYRADE",
             "price": 815.0,
             "volume": 1127,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 855.0,
-            "volume": 599,
             "side": "Vente"
         },
         {
@@ -4091,14 +4091,7 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1420.0,
-            "volume": 5139,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 207902,
+            "volume": 3679,
             "side": "Vente"
         },
         {
@@ -4125,30 +4118,9 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 11152,
+            "price": 1400.0,
+            "volume": 206219,
             "side": "Vente"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2515.0,
-            "volume": 130,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2511.0,
-            "volume": 81,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2514.0,
-            "volume": 1257,
-            "side": "Achat"
         },
         {
             "ticker": "BIO",
@@ -4165,10 +4137,24 @@
             "side": "Achat"
         },
         {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2515.0,
+            "volume": 130,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2514.0,
+            "volume": 1257,
+            "side": "Achat"
+        },
+        {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2107.0,
-            "volume": 43,
+            "price": 2150.0,
+            "volume": 1050,
             "side": "Vente"
         },
         {
@@ -4182,21 +4168,14 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2049.0,
-            "volume": 36501,
+            "volume": 35287,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2109.0,
-            "volume": 13211,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2100.0,
-            "volume": 19139,
+            "volume": 6723,
             "side": "Vente"
         },
         {
@@ -4209,13 +4188,6 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2151.0,
-            "volume": 217,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2000.0,
             "volume": 700,
             "side": "Achat"
@@ -4223,15 +4195,15 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2108.0,
-            "volume": 510,
+            "price": 2151.0,
+            "volume": 217,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2087.0,
-            "volume": 200,
+            "price": 2100.0,
+            "volume": 4510,
             "side": "Vente"
         },
         {
@@ -4239,13 +4211,6 @@
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2050.0,
             "volume": 41269,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2150.0,
-            "volume": 1050,
             "side": "Vente"
         },
         {
@@ -4272,13 +4237,6 @@
         {
             "ticker": "SAI",
             "name": "SAIDAL",
-            "price": 415.0,
-            "volume": 20000,
-            "side": "Achat"
-        },
-        {
-            "ticker": "SAI",
-            "name": "SAIDAL",
             "price": 411.0,
             "volume": 3210,
             "side": "Achat"
@@ -4291,6 +4249,13 @@
             "side": "Achat"
         },
         {
+            "ticker": "SAI",
+            "name": "SAIDAL",
+            "price": 415.0,
+            "volume": 20000,
+            "side": "Achat"
+        },
+        {
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "price": 99.9,
@@ -4299,6 +4264,12 @@
         }
     ],
     "bulletins": [
+        {
+            "id": "71-26",
+            "date": "06/09/2026",
+            "file": "Avis1323414742.pdf",
+            "title": "AVIS N°71-26 Portant modulation des écarts maximaux"
+        },
         {
             "id": "70-26",
             "date": "03/09/2026",
@@ -4346,12 +4317,6 @@
             "date": "16/08/2026",
             "file": "Avis1232326434.pdf",
             "title": "AVIS N°63-26Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "62-26",
-            "date": "09/08/2026",
-            "file": "Avis815126497.pdf",
-            "title": "AVIS N°62-26Portant modulation des écarts maximaux"
         }
     ]
 }
