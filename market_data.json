@@ -6,8 +6,8 @@
         "index_change": "-0,03%",
         "total_volume_equities": 29937,
         "total_value_equities": 45289372.0,
-        "total_volume_bonds": 400,
-        "total_value_bonds": 371903000.0,
+        "total_volume_bonds": 170,
+        "total_value_bonds": 155774400.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -956,13 +956,21 @@
             "issueDate": "13/05/2026",
             "maturityDate": "17/05/2041",
             "encours": "8 300,00"
+        },
+        {
+            "ticker": "O100936",
+            "name": "O.A.T  10 ans",
+            "isin": "DZ0000700827",
+            "open": 91.267,
+            "close": 91.267,
+            "change": "0,00 %",
+            "coupon": "5.75%",
+            "issueDate": "16/09/2026",
+            "maturityDate": "20/09/2036",
+            "encours": "10 850,00"
         }
     ],
     "index_history": [
-        [
-            1632355200000,
-            1743.334
-        ],
         [
             1632614400000,
             1743.334
@@ -4069,51 +4077,16 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
-            "price": 785.0,
-            "volume": 500,
-            "side": "Achat"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
             "price": 815.0,
             "volume": 3966,
             "side": "Achat"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 292916,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1470.0,
-            "volume": 740,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1330.0,
-            "volume": 110,
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 785.0,
+            "volume": 500,
             "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1425.0,
-            "volume": 5003,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 510,
-            "side": "Vente"
         },
         {
             "ticker": "BDL",
@@ -4165,11 +4138,39 @@
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2516.0,
-            "volume": 2060,
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 292916,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1470.0,
+            "volume": 740,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1330.0,
+            "volume": 110,
             "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1425.0,
+            "volume": 5003,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 510,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4200,32 +4201,11 @@
             "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2070.0,
-            "volume": 338,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2040.0,
-            "volume": 1416,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2001.0,
-            "volume": 1000,
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2516.0,
+            "volume": 2060,
             "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2109.0,
-            "volume": 90,
-            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4270,17 +4250,38 @@
             "side": "Vente"
         },
         {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2070.0,
+            "volume": 338,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2040.0,
+            "volume": 1416,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2001.0,
+            "volume": 1000,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2109.0,
+            "volume": 90,
+            "side": "Vente"
+        },
+        {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
             "volume": 2080,
-            "side": "Vente"
-        },
-        {
-            "ticker": "MST",
-            "name": "Moustachir",
-            "price": 730.0,
-            "volume": 397,
             "side": "Vente"
         },
         {
@@ -4295,6 +4296,13 @@
             "name": "Moustachir",
             "price": 800.0,
             "volume": 3000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 730.0,
+            "volume": 397,
             "side": "Vente"
         },
         {
