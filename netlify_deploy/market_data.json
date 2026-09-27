@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Jeudi 24  Septembre 2026",
+        "date": "Dimanche 27  Septembre 2026",
         "index_name": "Dzair Index",
-        "index_value": 3813.207,
-        "index_change": "-1,02%",
-        "total_volume_equities": 35423,
-        "total_value_equities": 52616681.0,
-        "total_volume_bonds": 170,
-        "total_value_bonds": 155774400.0,
+        "index_value": 3812.144,
+        "index_change": "-0,03%",
+        "total_volume_equities": 310970,
+        "total_value_equities": 436154170.0,
+        "total_volume_bonds": 3150,
+        "total_value_bonds": 2989050000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -18,10 +18,10 @@
             "sectorKey": "Bancaire",
             "ipoYear": 2024,
             "ipoPrice": 2300,
-            "currentPrice": 2001.0,
-            "change": "-1,82 %",
-            "open": 2038.0,
-            "close": 2001.0,
+            "currentPrice": 2000.0,
+            "change": "-0,05 %",
+            "open": 2001.0,
+            "close": 2000.0,
             "volume": 120,
             "value": 276000,
             "description": "Le Crédit Populaire d'Algérie (CPA) est l'une des plus importantes institutions bancaires publiques en Algérie. Son introduction en bourse en 2024 a constitué la plus grande opération historique de la place d'Alger, ouvrant avec succès 30% de son capital au public.",
@@ -58,8 +58,8 @@
             "ipoPrice": 1225,
             "currentPrice": 2516.0,
             "change": "0,00 %",
-            "open": 2516.0,
-            "close": 2516.0,
+            "open": 2346.0,
+            "close": null,
             "volume": 450,
             "value": 1129500,
             "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
@@ -363,7 +363,7 @@
             "currentPrice": 290.0,
             "change": "0,00 %",
             "open": 290.0,
-            "close": 290.0,
+            "close": null,
             "volume": 0,
             "value": 0,
             "description": "AOM Invest est une entreprise privée d'investissement à vocation touristique et immobilière. Introduite sur la bourse des PME en 2018, elle gère des actifs de loisir, d'hôtellerie balnéaire et des programmes de promotion touristique.",
@@ -971,10 +971,6 @@
         }
     ],
     "index_history": [
-        [
-            1632614400000,
-            1743.334
-        ],
         [
             1632787200000,
             1759.232
@@ -4054,6 +4050,10 @@
         [
             1790208000000,
             3813.207
+        ],
+        [
+            1790467200000,
+            3812.144
         ]
     ],
     "orders": [
@@ -4082,7 +4082,7 @@
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 815.0,
-            "volume": 4643,
+            "volume": 4605,
             "side": "Achat"
         },
         {
@@ -4091,6 +4091,41 @@
             "price": 785.0,
             "volume": 500,
             "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1330.0,
+            "volume": 110,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1425.0,
+            "volume": 2145,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 510,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1351.0,
+            "volume": 30,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1470.0,
+            "volume": 740,
+            "side": "Vente"
         },
         {
             "ticker": "BDL",
@@ -4116,93 +4151,51 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1445.0,
-            "volume": 3142,
+            "price": 1450.0,
+            "volume": 3572,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 8140,
+            "volume": 18855,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1400.0,
-            "volume": 320413,
+            "volume": 574,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2037.0,
+            "volume": 200,
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1470.0,
-            "volume": 740,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2001.0,
+            "volume": 697,
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1330.0,
-            "volume": 110,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1425.0,
-            "volume": 5003,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2050.0,
+            "volume": 440,
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 510,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2039.0,
+            "volume": 95385,
             "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1351.0,
-            "volume": 30,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1450.0,
-            "volume": 3572,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2514.0,
-            "volume": 160,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2516.0,
-            "volume": 2611,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2388.0,
-            "volume": 29,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2515.0,
-            "volume": 130,
-            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4214,43 +4207,15 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2109.0,
-            "volume": 90,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1950.0,
-            "volume": 200,
-            "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2050.0,
-            "volume": 490,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2039.0,
-            "volume": 94804,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2030.0,
-            "volume": 1000,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2100.0,
-            "volume": 5148,
+            "volume": 5048,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2000.0,
+            "volume": 12448,
             "side": "Vente"
         },
         {
@@ -4264,14 +4229,14 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2038.0,
-            "volume": 5067,
+            "volume": 9017,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2000.0,
-            "volume": 13668,
+            "price": 2030.0,
+            "volume": 1000,
             "side": "Vente"
         },
         {
@@ -4280,6 +4245,13 @@
             "price": 2070.0,
             "volume": 338,
             "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1950.0,
+            "volume": 200,
+            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4293,13 +4265,6 @@
             "name": "EGH El Aurassi",
             "price": 360.0,
             "volume": 2803,
-            "side": "Vente"
-        },
-        {
-            "ticker": "MST",
-            "name": "Moustachir",
-            "price": 730.0,
-            "volume": 397,
             "side": "Vente"
         },
         {
@@ -4320,7 +4285,7 @@
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 431.0,
-            "volume": 11906,
+            "volume": 11766,
             "side": "Achat"
         },
         {
@@ -4334,7 +4299,7 @@
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "price": 99.9,
-            "volume": 275,
+            "volume": 200,
             "side": "Vente"
         }
     ],
@@ -4348,7 +4313,7 @@
         {
             "id": "75-26",
             "date": "24/09/2026",
-            "file": "Avis687175433.pdf",
+            "file": "Avis1599047756.pdf",
             "title": "AVIS N°75-26 Portant calendrier des dividendes du titre bioparme"
         },
         {
