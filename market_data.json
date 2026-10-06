@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Dimanche 04  Octobre 2026",
+        "date": "Mardi 06  Octobre 2026",
         "index_name": "Dzair Index",
         "index_value": 3812.588,
         "index_change": "0,00%",
-        "total_volume_equities": 18785,
-        "total_value_equities": 28498000.0,
-        "total_volume_bonds": 5000,
-        "total_value_bonds": 4907210000.0,
+        "total_volume_equities": 25257,
+        "total_value_equities": 37435800.0,
+        "total_volume_bonds": 3000,
+        "total_value_bonds": 2948970000.0,
         "market_cap": 22000000000.0
     },
     "companies": {
@@ -4062,9 +4062,20 @@
         [
             1791072000000,
             3812.588
+        ],
+        [
+            1791244800000,
+            3812.588
         ]
     ],
     "orders": [
+        {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 355.0,
+            "volume": 8895,
+            "side": "Vente"
+        },
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
@@ -4075,16 +4086,16 @@
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
-            "price": 342.0,
-            "volume": 1810,
-            "side": "Achat"
+            "price": 360.0,
+            "volume": 3087,
+            "side": "Vente"
         },
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
-            "price": 360.0,
-            "volume": 3087,
-            "side": "Vente"
+            "price": 342.0,
+            "volume": 1810,
+            "side": "Achat"
         },
         {
             "ticker": "AOM",
@@ -4092,20 +4103,6 @@
             "price": 290.0,
             "volume": 970,
             "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 800.0,
-            "volume": 20,
-            "side": "Achat"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 820.0,
-            "volume": 695,
-            "side": "Achat"
         },
         {
             "ticker": "AYRD",
@@ -4136,32 +4133,18 @@
             "side": "Achat"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 57971,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1330.0,
-            "volume": 110,
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 800.0,
+            "volume": 20,
             "side": "Achat"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1470.0,
-            "volume": 690,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 18455,
-            "side": "Vente"
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 820.0,
+            "volume": 695,
+            "side": "Achat"
         },
         {
             "ticker": "BDL",
@@ -4195,14 +4178,42 @@
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1420.0,
-            "volume": 2500,
+            "volume": 285,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 67767,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1330.0,
+            "volume": 110,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1470.0,
+            "volume": 540,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 19455,
             "side": "Vente"
         },
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2350.0,
-            "volume": 3303,
+            "volume": 4553,
             "side": "Achat"
         },
         {
@@ -4215,16 +4226,9 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2000.0,
-            "volume": 43895,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2039.0,
-            "volume": 102339,
-            "side": "Vente"
+            "price": 1951.0,
+            "volume": 500,
+            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4237,14 +4241,14 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2100.0,
-            "volume": 768,
+            "volume": 3454,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2010.0,
-            "volume": 880,
+            "price": 2020.0,
+            "volume": 10,
             "side": "Vente"
         },
         {
@@ -4257,9 +4261,9 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1951.0,
-            "volume": 500,
-            "side": "Achat"
+            "price": 2000.0,
+            "volume": 48171,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4267,6 +4271,13 @@
             "price": 2038.0,
             "volume": 13327,
             "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1950.0,
+            "volume": 200,
+            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4285,8 +4296,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2001.0,
-            "volume": 2054,
+            "price": 2010.0,
+            "volume": 880,
             "side": "Vente"
         },
         {
@@ -4299,8 +4310,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1950.0,
-            "volume": 200,
+            "price": 1955.0,
+            "volume": 550,
             "side": "Achat"
         },
         {
@@ -4321,7 +4332,21 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2049.0,
-            "volume": 95135,
+            "volume": 93935,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2001.0,
+            "volume": 2054,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2039.0,
+            "volume": 103359,
             "side": "Vente"
         },
         {
@@ -4330,6 +4355,13 @@
             "price": 360.0,
             "volume": 3114,
             "side": "Vente"
+        },
+        {
+            "ticker": "MST",
+            "name": "Moustachir",
+            "price": 730.0,
+            "volume": 65,
+            "side": "Achat"
         },
         {
             "ticker": "SAI",
@@ -4368,6 +4400,18 @@
         }
     ],
     "bulletins": [
+        {
+            "id": "78-26",
+            "date": "06/10/2026",
+            "file": "Avis1736572545.pdf",
+            "title": "AVIS N°78-26 Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "77-26",
+            "date": "06/10/2026",
+            "file": "Avis1984824198.pdf",
+            "title": "AVIS N 77-26 Portant introduction du titre participatif RELAXI SPA"
+        },
         {
             "id": "76-26",
             "date": "04/10/2026",
@@ -4409,18 +4453,6 @@
             "date": "03/09/2026",
             "file": "Avis2010951154.pdf",
             "title": "AVIS N°70-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "69-26",
-            "date": "01/09/2026",
-            "file": "Avis991141451.pdf",
-            "title": "AVIS N°69-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "68-26",
-            "date": "27/08/2026",
-            "file": "Avis803470770.pdf",
-            "title": "AVIS N°68-26 Portant modulation des écarts maximaux"
         }
     ]
 }
