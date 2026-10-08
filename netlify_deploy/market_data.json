@@ -1,14 +1,14 @@
 {
     "session": {
-        "date": "Mardi 06  Octobre 2026",
+        "date": "Jeudi 08  Octobre 2026",
         "index_name": "Dzair Index",
-        "index_value": 3812.588,
-        "index_change": "0,00%",
-        "total_volume_equities": 25257,
-        "total_value_equities": 37435800.0,
-        "total_volume_bonds": 3000,
-        "total_value_bonds": 2948970000.0,
-        "market_cap": 22000000000.0
+        "index_value": 3813.412,
+        "index_change": "0,02%",
+        "total_volume_equities": 23926,
+        "total_value_equities": 26398155.0,
+        "total_volume_bonds": 4090,
+        "total_value_bonds": 3810838700.0,
+        "market_cap": 22171000000.0
     },
     "companies": {
         "CPA": {
@@ -135,7 +135,7 @@
             "currentPrice": 355.0,
             "change": "0,00 %",
             "open": 355.0,
-            "close": null,
+            "close": 355.0,
             "volume": 80,
             "value": 27600,
             "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
@@ -170,10 +170,10 @@
             "sectorKey": "Pharmaceutique",
             "ipoYear": 1999,
             "ipoPrice": 800,
-            "currentPrice": 431.0,
-            "change": "0,00 %",
+            "currentPrice": 450.0,
+            "change": "+4,41 %",
             "open": 431.0,
-            "close": null,
+            "close": 450.0,
             "volume": 500,
             "value": 223000,
             "description": "Saidal est le groupe pharmaceutique étatique historique et pionnier de la bourse depuis 1999. Saidal joue un rôle stratégique national dans la production de médicaments génériques et le développement de la souveraineté sanitaire algérienne.",
@@ -410,6 +410,14 @@
             "coupon": "OBLIG 6.25%"
         },
         {
+            "ticker": "RX33",
+            "name": "RELAXI",
+            "open": 100.0,
+            "close": null,
+            "change": "0,00 %",
+            "coupon": "OAT"
+        },
+        {
             "ticker": "TS30",
             "name": "TOSYALI ALGERIE",
             "open": 99.0,
@@ -524,18 +532,6 @@
             "issueDate": "17/04/2019",
             "maturityDate": "21/04/2034",
             "encours": "117 343,00"
-        },
-        {
-            "ticker": "O071026",
-            "name": "O.A.T  7 ans",
-            "isin": "DZ0000700462",
-            "open": 89.725,
-            "close": 89.725,
-            "change": "0,00 %",
-            "coupon": "5.00%",
-            "issueDate": "02/10/2019",
-            "maturityDate": "06/10/2026",
-            "encours": "22 880,00"
         },
         {
             "ticker": "O100230",
@@ -931,7 +927,7 @@
             "coupon": "5.00%",
             "issueDate": "31/12/2025",
             "maturityDate": "04/01/2033",
-            "encours": "53 715,00"
+            "encours": "77 300,00"
         },
         {
             "ticker": "O150341",
@@ -983,10 +979,6 @@
         }
     ],
     "index_history": [
-        [
-            1633564800000,
-            1759.831
-        ],
         [
             1633824000000,
             1759.831
@@ -4066,23 +4058,13 @@
         [
             1791244800000,
             3812.588
+        ],
+        [
+            1791417600000,
+            3813.412
         ]
     ],
     "orders": [
-        {
-            "ticker": "ALL",
-            "name": "ALLIANCE ASSURANCES",
-            "price": 355.0,
-            "volume": 8895,
-            "side": "Vente"
-        },
-        {
-            "ticker": "ALL",
-            "name": "ALLIANCE ASSURANCES",
-            "price": 354.0,
-            "volume": 7253,
-            "side": "Vente"
-        },
         {
             "ticker": "ALL",
             "name": "ALLIANCE ASSURANCES",
@@ -4098,18 +4080,18 @@
             "side": "Achat"
         },
         {
+            "ticker": "ALL",
+            "name": "ALLIANCE ASSURANCES",
+            "price": 355.0,
+            "volume": 7387,
+            "side": "Vente"
+        },
+        {
             "ticker": "AOM",
             "name": "AOM invest",
             "price": 290.0,
             "volume": 970,
             "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 785.0,
-            "volume": 500,
-            "side": "Achat"
         },
         {
             "ticker": "AYRD",
@@ -4122,7 +4104,7 @@
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 815.0,
-            "volume": 4595,
+            "volume": 1415,
             "side": "Achat"
         },
         {
@@ -4147,6 +4129,27 @@
             "side": "Achat"
         },
         {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 785.0,
+            "volume": 500,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1450.0,
+            "volume": 3572,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 1050,
+            "side": "Vente"
+        },
+        {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1351.0,
@@ -4156,8 +4159,8 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1450.0,
-            "volume": 3572,
+            "price": 1420.0,
+            "volume": 585,
             "side": "Vente"
         },
         {
@@ -4177,43 +4180,36 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 285,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 67767,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1330.0,
-            "volume": 110,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1470.0,
-            "volume": 540,
+            "volume": 400,
             "side": "Vente"
         },
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1410.0,
-            "volume": 19455,
+            "volume": 20455,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 115239,
             "side": "Vente"
         },
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2350.0,
-            "volume": 4553,
+            "volume": 4693,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2352.0,
+            "volume": 20,
             "side": "Achat"
         },
         {
@@ -4224,32 +4220,11 @@
             "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1951.0,
-            "volume": 500,
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2351.0,
+            "volume": 41281,
             "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2035.0,
-            "volume": 1188,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2100.0,
-            "volume": 3454,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2020.0,
-            "volume": 10,
-            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4261,8 +4236,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2000.0,
-            "volume": 48171,
+            "price": 2020.0,
+            "volume": 1040,
             "side": "Vente"
         },
         {
@@ -4275,9 +4250,9 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1950.0,
-            "volume": 200,
-            "side": "Achat"
+            "price": 2000.0,
+            "volume": 81056,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4296,6 +4271,20 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1950.0,
+            "volume": 200,
+            "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2040.0,
+            "volume": 1516,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2010.0,
             "volume": 880,
             "side": "Vente"
@@ -4303,8 +4292,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2040.0,
-            "volume": 1516,
+            "price": 2037.0,
+            "volume": 300,
             "side": "Vente"
         },
         {
@@ -4317,22 +4306,22 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2037.0,
-            "volume": 300,
+            "price": 2049.0,
+            "volume": 91591,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2030.0,
-            "volume": 1000,
+            "volume": 1100,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2049.0,
-            "volume": 93935,
+            "price": 2039.0,
+            "volume": 103594,
             "side": "Vente"
         },
         {
@@ -4345,15 +4334,36 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2039.0,
-            "volume": 103359,
+            "price": 2035.0,
+            "volume": 1188,
             "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2100.0,
+            "volume": 3564,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1951.0,
+            "volume": 500,
+            "side": "Achat"
         },
         {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
-            "volume": 3114,
+            "volume": 3314,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 345.0,
+            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4381,8 +4391,8 @@
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 450.0,
-            "volume": 20,
-            "side": "Achat"
+            "volume": 2218,
+            "side": "Vente"
         },
         {
             "ticker": "SAI",
@@ -4400,6 +4410,12 @@
         }
     ],
     "bulletins": [
+        {
+            "id": "79-26",
+            "date": "08/10/2026",
+            "file": "Avis272618938.pdf",
+            "title": "Avis 79-26 Portant modulation des écarts maximaux"
+        },
         {
             "id": "78-26",
             "date": "06/10/2026",
@@ -4447,12 +4463,6 @@
             "date": "06/09/2026",
             "file": "Avis1323414742.pdf",
             "title": "AVIS N°71-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "70-26",
-            "date": "03/09/2026",
-            "file": "Avis2010951154.pdf",
-            "title": "AVIS N°70-26 Portant modulation des écarts maximaux"
         }
     ]
 }
