@@ -6,8 +6,8 @@
         "index_change": "-0,05%",
         "total_volume_equities": 15170,
         "total_value_equities": 26132338.0,
-        "total_volume_bonds": 8000,
-        "total_value_bonds": 7373380000.0,
+        "total_volume_bonds": 4200,
+        "total_value_bonds": 3992156000.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -979,10 +979,6 @@
         }
     ],
     "index_history": [
-        [
-            1634774400000,
-            1819.148
-        ],
         [
             1635033600000,
             1819.148
@@ -4103,6 +4099,13 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1401.0,
+            "volume": 570,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1398.0,
             "volume": 41653,
             "side": "Vente"
@@ -4157,11 +4160,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1401.0,
-            "volume": 570,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2351.0,
+            "volume": 3408,
+            "side": "Achat"
         },
         {
             "ticker": "BIO",
@@ -4206,11 +4209,18 @@
             "side": "Achat"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2351.0,
-            "volume": 3408,
-            "side": "Achat"
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1999.0,
+            "volume": 35253,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2037.0,
+            "volume": 200,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4315,20 +4325,6 @@
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2049.0,
             "volume": 1300,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1999.0,
-            "volume": 35253,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2037.0,
-            "volume": 200,
             "side": "Vente"
         },
         {
