@@ -980,10 +980,6 @@
     ],
     "index_history": [
         [
-            1635638400000,
-            1819.148
-        ],
-        [
             1635811200000,
             1823.94
         ],
@@ -4089,6 +4085,13 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1399.0,
+            "volume": 9322,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1395.0,
             "volume": 30,
             "side": "Vente"
@@ -4164,11 +4167,18 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1399.0,
-            "volume": 9322,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2346.0,
+            "volume": 80,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2365.0,
+            "volume": 322,
+            "side": "Achat"
         },
         {
             "ticker": "BIO",
@@ -4180,15 +4190,15 @@
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2351.0,
-            "volume": 2627,
+            "price": 2402.0,
+            "volume": 2410,
             "side": "Achat"
         },
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2402.0,
-            "volume": 2410,
+            "price": 2351.0,
+            "volume": 2627,
             "side": "Achat"
         },
         {
@@ -4229,13 +4239,6 @@
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2355.0,
-            "volume": 98,
-            "side": "Achat"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
             "price": 2403.0,
             "volume": 781,
             "side": "Achat"
@@ -4243,16 +4246,23 @@
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2346.0,
-            "volume": 80,
+            "price": 2355.0,
+            "volume": 98,
             "side": "Achat"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2365.0,
-            "volume": 322,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1951.0,
+            "volume": 500,
             "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2010.0,
+            "volume": 2000,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4360,20 +4370,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1951.0,
-            "volume": 500,
-            "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2010.0,
-            "volume": 2000,
-            "side": "Vente"
-        },
-        {
             "ticker": "AUR",
             "name": "EGH El Aurassi",
             "price": 360.0,
@@ -4397,15 +4393,15 @@
         {
             "ticker": "MST",
             "name": "Moustachir",
-            "price": 730.0,
-            "volume": 875,
+            "price": 725.0,
+            "volume": 3000,
             "side": "Vente"
         },
         {
             "ticker": "MST",
             "name": "Moustachir",
-            "price": 725.0,
-            "volume": 3000,
+            "price": 730.0,
+            "volume": 875,
             "side": "Vente"
         },
         {
