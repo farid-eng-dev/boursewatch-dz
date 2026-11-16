@@ -6,8 +6,8 @@
         "index_change": "0,00%",
         "total_volume_equities": 20787,
         "total_value_equities": 33659382.0,
-        "total_volume_bonds": 4296,
-        "total_value_bonds": 4147479520.0,
+        "total_volume_bonds": 1900,
+        "total_value_bonds": 1842549000.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -991,10 +991,6 @@
         }
     ],
     "index_history": [
-        [
-            1637020800000,
-            1854.614
-        ],
         [
             1637193600000,
             1854.614
@@ -4094,22 +4090,15 @@
         {
             "ticker": "AOM",
             "name": "AOM invest",
-            "price": 280.0,
-            "volume": 40,
-            "side": "Achat"
-        },
-        {
-            "ticker": "AOM",
-            "name": "AOM invest",
             "price": 290.0,
             "volume": 1273,
             "side": "Vente"
         },
         {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 815.0,
-            "volume": 7070,
+            "ticker": "AOM",
+            "name": "AOM invest",
+            "price": 280.0,
+            "volume": 40,
             "side": "Achat"
         },
         {
@@ -4134,18 +4123,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 714,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 159301,
-            "side": "Vente"
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 815.0,
+            "volume": 7070,
+            "side": "Achat"
         },
         {
             "ticker": "BDL",
@@ -4190,18 +4172,18 @@
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2402.0,
-            "volume": 7342,
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1420.0,
+            "volume": 714,
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2358.0,
-            "volume": 2080,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 159301,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
@@ -4246,32 +4228,18 @@
             "side": "Achat"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1997.0,
-            "volume": 32221,
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2402.0,
+            "volume": 7342,
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2069.0,
-            "volume": 500,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1994.0,
-            "volume": 10733,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2012.0,
-            "volume": 1000,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2358.0,
+            "volume": 2080,
+            "side": "Achat"
         },
         {
             "ticker": "CPA",
@@ -4337,10 +4305,31 @@
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 345.0,
-            "volume": 1145,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1997.0,
+            "volume": 32221,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2069.0,
+            "volume": 500,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1994.0,
+            "volume": 10733,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2012.0,
+            "volume": 1000,
             "side": "Vente"
         },
         {
@@ -4362,6 +4351,13 @@
             "name": "EGH El Aurassi",
             "price": 350.0,
             "volume": 2000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 345.0,
+            "volume": 1145,
             "side": "Vente"
         },
         {
