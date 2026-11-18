@@ -6,8 +6,8 @@
         "index_change": "0,00%",
         "total_volume_equities": 21030,
         "total_value_equities": 35450016.0,
-        "total_volume_bonds": 3010,
-        "total_value_bonds": 2659459500.0,
+        "total_volume_bonds": 2000,
+        "total_value_bonds": 1759120000.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -991,10 +991,6 @@
         }
     ],
     "index_history": [
-        [
-            1637193600000,
-            1854.614
-        ],
         [
             1637452800000,
             1885.983
@@ -4136,13 +4132,6 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 500,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1400.0,
             "volume": 169800,
             "side": "Vente"
@@ -4180,6 +4169,13 @@
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1467.0,
             "volume": 400,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4230,20 +4226,6 @@
             "price": 2357.0,
             "volume": 1857,
             "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1995.0,
-            "volume": 31996,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2069.0,
-            "volume": 500,
-            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4323,10 +4305,17 @@
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 344.0,
-            "volume": 205,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1995.0,
+            "volume": 31996,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2069.0,
+            "volume": 500,
             "side": "Vente"
         },
         {
@@ -4348,6 +4337,13 @@
             "name": "EGH El Aurassi",
             "price": 345.0,
             "volume": 1145,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 344.0,
+            "volume": 205,
             "side": "Vente"
         },
         {
