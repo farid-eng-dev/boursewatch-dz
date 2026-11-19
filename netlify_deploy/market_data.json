@@ -1,13 +1,13 @@
 {
     "session": {
-        "date": "Mardi 17  Novembre 2026",
+        "date": "Jeudi 19  Novembre 2026",
         "index_name": "Dzair Index",
-        "index_value": 3813.258,
+        "index_value": 3813.369,
         "index_change": "0,00%",
-        "total_volume_equities": 21030,
-        "total_value_equities": 35450016.0,
-        "total_volume_bonds": 2000,
-        "total_value_bonds": 1759120000.0,
+        "total_volume_equities": 18726,
+        "total_value_equities": 37777167.0,
+        "total_volume_bonds": 3000,
+        "total_value_bonds": 2655516000.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -56,10 +56,10 @@
             "sectorKey": "Pharmaceutique",
             "ipoYear": 2016,
             "ipoPrice": 1225,
-            "currentPrice": 2402.0,
-            "change": "0,00 %",
+            "currentPrice": 2403.0,
+            "change": "0,04 %",
             "open": 2402.0,
-            "close": 2402.0,
+            "close": 2403.0,
             "volume": 450,
             "value": 1129500,
             "description": "Biopharm est un laboratoire pharmaceutique algérien intégré, leader dans le secteur de la santé. Il exerce des activités de développement, production, distribution et d'information médicale. C'est l'un des titres les plus dynamiques en termes de valorisation boursière.",
@@ -97,7 +97,7 @@
             "currentPrice": 1400.0,
             "change": "0,00 %",
             "open": 1400.0,
-            "close": 1400.0,
+            "close": null,
             "volume": 12000,
             "value": 16860000,
             "description": "La Banque du Développement Local (BDL) est une banque publique majeure introduite à la bourse d'Alger en 2024. Elle se concentre sur le financement du tissu industriel local, de l'artisanat, des PME ainsi que des services bancaires de proximité.",
@@ -135,7 +135,7 @@
             "currentPrice": 360.0,
             "change": "0,00 %",
             "open": 360.0,
-            "close": 360.0,
+            "close": null,
             "volume": 80,
             "value": 27600,
             "description": "Alliance Assurances est le pionnier des compagnies privées d'assurances cotées à la Bourse d'Alger. Elle fournit un catalogue complet d'offres de couverture (automobile, risques industriels, santé) pour les particuliers et le corporate.",
@@ -173,7 +173,7 @@
             "currentPrice": 450.0,
             "change": "0,00 %",
             "open": 450.0,
-            "close": null,
+            "close": 450.0,
             "volume": 500,
             "value": 223000,
             "description": "Saidal est le groupe pharmaceutique étatique historique et pionnier de la bourse depuis 1999. Saidal joue un rôle stratégique national dans la production de médicaments génériques et le développement de la souveraineté sanitaire algérienne.",
@@ -249,7 +249,7 @@
             "currentPrice": 830.0,
             "change": "0,00 %",
             "open": 830.0,
-            "close": null,
+            "close": 830.0,
             "volume": 20,
             "value": 16200,
             "description": "Ayrade est une société technologique dynamique introduite en 2026. Actrice majeure dans les solutions logicielles, d'hébergement web cloud et de transformation digitale en Algérie, elle vise à dynamiser le compartiment technologique de la bourse.",
@@ -4070,6 +4070,10 @@
         [
             1794873600000,
             3813.258
+        ],
+        [
+            1795046400000,
+            3813.369
         ]
     ],
     "orders": [
@@ -4088,24 +4092,10 @@
             "side": "Achat"
         },
         {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 290.0,
-            "volume": 1273,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AOM",
-            "name": "AOM invest",
-            "price": 280.0,
-            "volume": 40,
-            "side": "Achat"
-        },
-        {
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 830.0,
-            "volume": 2936,
+            "volume": 2366,
             "side": "Vente"
         },
         {
@@ -4119,7 +4109,7 @@
             "ticker": "AYRD",
             "name": "AYRADE",
             "price": 815.0,
-            "volume": 7070,
+            "volume": 20,
             "side": "Achat"
         },
         {
@@ -4132,36 +4122,29 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1400.0,
-            "volume": 169800,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1450.0,
-            "volume": 3300,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 3475,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1420.0,
-            "volume": 714,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
             "price": 1401.0,
             "volume": 136,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1398.0,
+            "volume": 10750,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1410.0,
+            "volume": 500,
+            "side": "Vente"
+        },
+        {
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1400.0,
+            "volume": 174756,
             "side": "Vente"
         },
         {
@@ -4174,43 +4157,36 @@
         {
             "ticker": "BDL",
             "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1410.0,
-            "volume": 500,
+            "price": 1405.0,
+            "volume": 175,
             "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2359.0,
-            "volume": 60,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1399.0,
+            "volume": 5275,
+            "side": "Vente"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2350.0,
-            "volume": 20,
-            "side": "Achat"
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1450.0,
+            "volume": 3300,
+            "side": "Vente"
         },
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
             "price": 2402.0,
-            "volume": 6467,
-            "side": "Vente"
-        },
-        {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2358.0,
-            "volume": 2080,
+            "volume": 7820,
             "side": "Achat"
         },
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2346.0,
-            "volume": 10,
+            "price": 2358.0,
+            "volume": 1830,
             "side": "Achat"
         },
         {
@@ -4223,36 +4199,64 @@
         {
             "ticker": "BIO",
             "name": "BIOPHARM",
-            "price": 2357.0,
-            "volume": 1857,
+            "price": 2350.0,
+            "volume": 20,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2405.0,
+            "volume": 933,
+            "side": "Achat"
+        },
+        {
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2359.0,
+            "volume": 60,
             "side": "Achat"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1980.0,
-            "volume": 586,
+            "price": 1995.0,
+            "volume": 31996,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2048.0,
+            "volume": 3000,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1951.0,
+            "volume": 501,
             "side": "Achat"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 2000.0,
-            "volume": 1980,
+            "volume": 1780,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 1997.0,
-            "volume": 32221,
+            "volume": 31321,
             "side": "Vente"
         },
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 1994.0,
-            "volume": 4876,
+            "volume": 168,
             "side": "Vente"
         },
         {
@@ -4265,15 +4269,8 @@
         {
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1951.0,
-            "volume": 500,
-            "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 1999.0,
-            "volume": 73492,
+            "volume": 45339,
             "side": "Vente"
         },
         {
@@ -4301,21 +4298,14 @@
             "ticker": "CPA",
             "name": "CREDIT POPULAIRE D'ALGERIE",
             "price": 1998.0,
-            "volume": 22635,
+            "volume": 15776,
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1995.0,
-            "volume": 31996,
-            "side": "Vente"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2069.0,
-            "volume": 500,
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 344.0,
+            "volume": 205,
             "side": "Vente"
         },
         {
@@ -4340,13 +4330,6 @@
             "side": "Vente"
         },
         {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 344.0,
-            "volume": 205,
-            "side": "Vente"
-        },
-        {
             "ticker": "MST",
             "name": "Moustachir",
             "price": 760.0,
@@ -4357,7 +4340,7 @@
             "ticker": "SAI",
             "name": "SAIDAL",
             "price": 450.0,
-            "volume": 10636,
+            "volume": 748,
             "side": "Achat"
         },
         {
@@ -4366,9 +4349,34 @@
             "price": 431.0,
             "volume": 5,
             "side": "Achat"
+        },
+        {
+            "ticker": "TS30",
+            "name": "TOSYALI ALGERIE",
+            "price": 100.0,
+            "volume": 6200,
+            "side": "Vente"
         }
     ],
     "bulletins": [
+        {
+            "id": "93-26",
+            "date": "19/11/2026",
+            "file": "Avis699629533.pdf",
+            "title": "AVIS N°93-26 Portant modulation des écarts maximaux"
+        },
+        {
+            "id": "92-26",
+            "date": "19/11/2026",
+            "file": "Avis66867303.pdf",
+            "title": "AVIS N°92-26 Portant  suspension de la cotation du titre AOM INVEST"
+        },
+        {
+            "id": "91-26",
+            "date": "19/11/2026",
+            "file": "Avis1502105136.pdf",
+            "title": "AVIS N°91-26 Portant ouverture de l'introduction du titre CSC Expertise SPA"
+        },
         {
             "id": "90-26",
             "date": "10/11/2026",
@@ -4404,24 +4412,6 @@
             "date": "29/10/2026",
             "file": "Avis799668783.pdf",
             "title": "AVIS N°85-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "84-26",
-            "date": "27/10/2026",
-            "file": "Avis1125099296.pdf",
-            "title": "AVIS N°84-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "83-26",
-            "date": "22/10/2026",
-            "file": "Avis1754567449.pdf",
-            "title": "AVIS N°83-26 Portant modulation des écarts maximaux"
-        },
-        {
-            "id": "82-26",
-            "date": "20/10/2026",
-            "file": "Avis491150935.pdf",
-            "title": "AVIS N°82-26 Portant introduction des Sukuk Souverains"
         }
     ]
 }
