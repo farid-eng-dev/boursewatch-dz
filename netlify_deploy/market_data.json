@@ -6,8 +6,8 @@
         "index_change": "-0,04%",
         "total_volume_equities": 20039,
         "total_value_equities": 30881154.0,
-        "total_volume_bonds": 3000,
-        "total_value_bonds": 2655516000.0,
+        "total_volume_bonds": 130,
+        "total_value_bonds": 122055700.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -991,10 +991,6 @@
         }
     ],
     "index_history": [
-        [
-            1637625600000,
-            1885.983
-        ],
         [
             1637798400000,
             1885.983
@@ -4094,6 +4090,20 @@
         {
             "ticker": "AYRD",
             "name": "AYRADE",
+            "price": 845.0,
+            "volume": 2648,
+            "side": "Vente"
+        },
+        {
+            "ticker": "AYRD",
+            "name": "AYRADE",
+            "price": 820.0,
+            "volume": 500,
+            "side": "Achat"
+        },
+        {
+            "ticker": "AYRD",
+            "name": "AYRADE",
             "price": 840.0,
             "volume": 3000,
             "side": "Vente"
@@ -4106,18 +4116,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 845.0,
-            "volume": 2648,
+            "ticker": "BDL",
+            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
+            "price": 1405.0,
+            "volume": 175,
             "side": "Vente"
-        },
-        {
-            "ticker": "AYRD",
-            "name": "AYRADE",
-            "price": 820.0,
-            "volume": 500,
-            "side": "Achat"
         },
         {
             "ticker": "BDL",
@@ -4162,11 +4165,11 @@
             "side": "Vente"
         },
         {
-            "ticker": "BDL",
-            "name": "BANQUE DE DEVELOPPEMENT LOCAL",
-            "price": 1405.0,
-            "volume": 175,
-            "side": "Vente"
+            "ticker": "BIO",
+            "name": "BIOPHARM",
+            "price": 2402.0,
+            "volume": 8405,
+            "side": "Achat"
         },
         {
             "ticker": "BIO",
@@ -4190,11 +4193,25 @@
             "side": "Achat"
         },
         {
-            "ticker": "BIO",
-            "name": "BIOPHARM",
-            "price": 2402.0,
-            "volume": 8405,
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1951.0,
+            "volume": 501,
             "side": "Achat"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 2000.0,
+            "volume": 1680,
+            "side": "Vente"
+        },
+        {
+            "ticker": "CPA",
+            "name": "CREDIT POPULAIRE D'ALGERIE",
+            "price": 1997.0,
+            "volume": 31221,
+            "side": "Vente"
         },
         {
             "ticker": "CPA",
@@ -4253,24 +4270,17 @@
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1951.0,
-            "volume": 501,
-            "side": "Achat"
-        },
-        {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 2000.0,
-            "volume": 1680,
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 360.0,
+            "volume": 50,
             "side": "Vente"
         },
         {
-            "ticker": "CPA",
-            "name": "CREDIT POPULAIRE D'ALGERIE",
-            "price": 1997.0,
-            "volume": 31221,
+            "ticker": "AUR",
+            "name": "EGH El Aurassi",
+            "price": 345.0,
+            "volume": 1145,
             "side": "Vente"
         },
         {
@@ -4285,20 +4295,6 @@
             "name": "EGH El Aurassi",
             "price": 350.0,
             "volume": 2000,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 360.0,
-            "volume": 50,
-            "side": "Vente"
-        },
-        {
-            "ticker": "AUR",
-            "name": "EGH El Aurassi",
-            "price": 345.0,
-            "volume": 1145,
             "side": "Vente"
         },
         {
