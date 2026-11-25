@@ -7,7 +7,7 @@
         "total_volume_equities": 20240,
         "total_value_equities": 29858907.0,
         "total_volume_bonds": 4000,
-        "total_value_bonds": 3787080000.0,
+        "total_value_bonds": 3788720000.0,
         "market_cap": 22171000000.0
     },
     "companies": {
@@ -991,10 +991,6 @@
         }
     ],
     "index_history": [
-        [
-            1637798400000,
-            1885.983
-        ],
         [
             1638057600000,
             1885.983
